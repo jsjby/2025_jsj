@@ -5,6 +5,11 @@
 
 【报名截止：4.15】[科技学院](https://mp.weixin.qq.com/s/V8zIA5xdGA_kNKudo-4MuQ)
 
+## 香港科技大学
+
+【报名截止：暂无】[工学院](https://mp.weixin.qq.com/s/Yub1OpBQy17EJmjKrQ7BSA)
+
+
 ## 导师课题组或实验室招生
 
 ## 中国科学院
