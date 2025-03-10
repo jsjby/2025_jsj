@@ -13,6 +13,10 @@
 
 ## 香港中文大学
 
+【报名截止：6.20】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)
+
+【报名截止：4.30】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)
+
 【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)
 
 
