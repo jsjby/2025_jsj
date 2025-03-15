@@ -1,6 +1,10 @@
 # 2025年计算机类夏令营和预推免通知
 2025年计算机类夏令营和预推免通知，计算机类（计算机科学与技术、软件工程、人工智能等）
 
+## 西湖大学
+
+【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
+
 ## 澳门大学
 
 【报名截止：4.15】[科技学院](https://mp.weixin.qq.com/s/V8zIA5xdGA_kNKudo-4MuQ)
