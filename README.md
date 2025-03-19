@@ -1,6 +1,12 @@
 # 2025年计算机类夏令营和预推免通知
 2025年计算机类夏令营和预推免通知，计算机类（计算机科学与技术、软件工程、人工智能等）
 
+## 中国科学院
+
+【报名截止：6.20】[上海营养与健康研究所](https://sedu.sinh.ac.cn/news.php?id=489)
+
+【报名截止：6.20】[分子细胞科学卓越创新中心](https://mp.weixin.qq.com/s/a_pZvha1pjzy_joRUTC9Ng)
+
 ## 西湖大学
 
 【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
