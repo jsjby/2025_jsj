@@ -13,21 +13,11 @@
 
 ## 澳门大学
 
+【报名截止：4.17】[健康科学学院](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA)
+
 【报名截止：4.15】[科技学院](https://mp.weixin.qq.com/s/V8zIA5xdGA_kNKudo-4MuQ)
 
-## 香港科技大学
 
-【报名截止：暂无】[工学院](https://mp.weixin.qq.com/s/Yub1OpBQy17EJmjKrQ7BSA)
-
-【报名截止：暂无】[（广州）智能制造博士项目](https://mp.weixin.qq.com/s/mXSzUAgvS27tT1qg8d88Eg)
-
-## 香港中文大学
-
-【报名截止：6.20】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)
-
-【报名截止：4.30】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)
-
-【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)
 
 
 ## 导师课题组或实验室招生
