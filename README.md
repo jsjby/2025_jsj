@@ -9,6 +9,10 @@
 
 ## 北京大学
 
+【报名截止：6.12 16:00】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860)
+
+【报名截止：6.12 16:00】[生命科学联合中心（北大方面）和PTN项目（北大方面）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859)
+
 【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)
 
 ## 武汉大学
