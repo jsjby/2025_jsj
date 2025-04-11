@@ -15,6 +15,8 @@
 
 【报名截止：6.12 16:00】[生命科学联合中心（北大方面）和PTN项目（北大方面）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859)
 
+【报名截止：6.6 12:00】[未来技术学院](https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm)
+
 【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)
 
 ## 武汉大学
@@ -34,6 +36,10 @@
 ## 昌平实验室
 
 【报名截止：5.30 17:00】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f195f2f0cd0195f50b80cb0017.html)
+
+## 上海人工智能实验室
+
+【报名截止：N/A】[上海人工智能实验室](https://mp.weixin.qq.com/s/3hDyeKK8R5oQm7qbwyyU3A)
 
 ## 西湖大学
 
