@@ -3,11 +3,15 @@
 
 ## 清华大学
 
+【报名截止：5.9 17:00】[地球系统科学系地学学科](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm)
+
 【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)
 
 【报名截止：4.16 17:00】[统计与数据科学系](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw)
 
 ## 北京大学
+
+【报名截止：6.14】[环境与能源学院](https://see.pkusz.edu.cn/info/1024/1765.htm)
 
 【报名截止：6.12 16:00】[定量生物学中心](https://mp.weixin.qq.com/s/J9HECH7s3OGkf4s5FXJ3fA)
 
@@ -40,6 +44,14 @@
 ## 上海人工智能实验室
 
 【报名截止：N/A】[上海人工智能实验室](https://mp.weixin.qq.com/s/3hDyeKK8R5oQm7qbwyyU3A)
+
+##  北京脑科学与类脑研究所
+
+【报名截止：6.12 12:00】[北京脑科学与类脑研究所](https://mp.weixin.qq.com/s/M9G2Y2Ci7qFWjRgCuffbXA)
+
+##  怀柔实验室
+
+【报名截止：5.31 17:00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)
 
 ## 西湖大学
 
