@@ -3,7 +3,11 @@
 
 ## 清华大学
 
+【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
+
 【报名截止：5.9 17:00】[地球系统科学系地学学科](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm)
+
+【报名截止：5.5】[能源环境经济研究所](https://mp.weixin.qq.com/s/Z7SPgX7rNiFY4CH1-0Ch_A)
 
 【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)
 
@@ -26,6 +30,10 @@
 ## 武汉大学
 
 【报名截止：境内6/23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
+
+## 山东大学
+
+【报名截止：6.15】[前沿交叉科学青岛研究院](https://frontier.qd.sdu.edu.cn/info/1011/8709.htm)
 
 ## 中国科学院
 
