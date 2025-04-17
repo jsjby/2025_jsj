@@ -11,7 +11,7 @@
 
 【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)
 
-【报名截止：4.16 17:00】[统计与数据科学系](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw)
+~~【报名截止：4.16 17:00】[统计与数据科学系](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw)~~
 
 ## 北京大学
 
@@ -43,7 +43,13 @@
 
 【报名截止：6.20】[分子细胞科学卓越创新中心](https://mp.weixin.qq.com/s/a_pZvha1pjzy_joRUTC9Ng)
 
+【报名截止：6.20】[宁波材料技术与工程研究所](https://ncmte.nimte.ac.cn/view-31481.html)
+
 【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)
+
+## 南方科技大学
+
+【报名截止：6.13 23:00】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/383.html)
 
 ## 昌平实验室
 
@@ -67,9 +73,9 @@
 
 ## 澳门大学
 
-【报名截止：4.17】[健康科学学院](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA)
+~~【报名截止：4.17】[健康科学学院](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA)~~
 
-【报名截止：4.15】[科技学院](https://mp.weixin.qq.com/s/V8zIA5xdGA_kNKudo-4MuQ)
+~~【报名截止：4.15】[科技学院](https://mp.weixin.qq.com/s/V8zIA5xdGA_kNKudo-4MuQ)~~
 
 
 
