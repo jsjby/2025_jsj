@@ -91,7 +91,13 @@
 
 ## 西湖大学
 
+【报名截止：N/A】[工学院人工智能与科学仿真发现实验室](https://mp.weixin.qq.com/s/SLQCiaiiMurWKkETaTRJyw)
+
 【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
+
+##  上海创智学院
+
+【报名截止：N/A】[上海创智学院](https://admissions.sii.edu.cn/selectsbforapost.html)
 
 ## 澳门大学
 
