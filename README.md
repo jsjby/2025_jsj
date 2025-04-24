@@ -15,6 +15,8 @@
 
 ## 北京大学
 
+【报名截止：N/A】[电子设计自动化研究院](https://mp.weixin.qq.com/s/37ezfmsZnv2AMmV7PEV-vA)
+
 【报名截止：6.20】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2924.htm)
 
 【报名截止：6.14】[环境与能源学院](https://see.pkusz.edu.cn/info/1024/1765.htm)
@@ -33,6 +35,10 @@
 
 【报名截止：N/A】[计算机科学技术学院协同信息与系统实验室](https://mp.weixin.qq.com/s/JSBAfIP1J4ngwfDfFpoiYA)
 
+## 浙江大学
+
+【报名截止：5.21 17:00】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm)
+
 ## 武汉大学
 
 【报名截止：境内6/23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
@@ -50,6 +56,8 @@
 ## 中国科学院
 
 【报名截止：7.2】[城市环境研究所](https://iue.cas.cn/zxgg/202504/t20250421_7604942.html)
+
+【报名截止：6.25】[遗传发育所](https://genetics.cas.cn/edu/zsxx/xlytms/202504/t20250424_7611154.html)
 
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://www.ion.ac.cn/yjs/tzgg/202503/t20250327_7566333.html)
 
