@@ -9,7 +9,7 @@
 
 【报名截止：5.5】[能源环境经济研究所](https://mp.weixin.qq.com/s/Z7SPgX7rNiFY4CH1-0Ch_A)
 
-【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)
+~~【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)~~
 
 ~~【报名截止：4.16 17:00】[统计与数据科学系](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw)~~
 
@@ -43,6 +43,10 @@
 
 【报名截止：5.21 17:00】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm)
 
+## 西安交通大学
+
+【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)
+
 ## 武汉大学
 
 【报名截止：境内6/23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
@@ -60,6 +64,8 @@
 ## 中国科学院
 
 【报名截止：7.2】[城市环境研究所](https://iue.cas.cn/zxgg/202504/t20250421_7604942.html)
+
+【报名截止：7.1】[青海盐湖研究所](https://isl.cas.cn/yjs/xly/202504/t20250425_7615489.html)
 
 【报名截止：6.25】[遗传发育所](https://genetics.cas.cn/edu/zsxx/xlytms/202504/t20250424_7611154.html)
 
