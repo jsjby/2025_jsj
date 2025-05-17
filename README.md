@@ -78,6 +78,8 @@
 
 【报名截止：6.15】[生物系统工程与食品科学学院](http://www.caefs.zju.edu.cn/2025/0508/c68202a3046985/page.htm)
 
+【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2025/0515/c21109a3049527/page.htm)
+
 【报名截止：5.25 22:00】[管理学院](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm)
 
 【报名截止：5.21 17:00】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm)
@@ -138,6 +140,8 @@
 
 【报名截止：6.17 17:00】[经济与管理学院](https://sem.tongji.edu.cn/semch/53441.html)
 
+【报名截止：6.16 17:00】[汽车学院](https://auto.tongji.edu.cn/info/1013/11134.htm)
+
 【报名截止：6.15 22：00】[城市交通研究院](https://umi.tongji.edu.cn/info/1070/2117.htm)
 
 【报名截止：6.15 22：00】[交通学院](https://tjjt.tongji.edu.cn/info/1561/11360.htm)
@@ -147,6 +151,8 @@
 【报名截止：6.13 17:00】[生命科学与技术学院](https://life.tongji.edu.cn/5a/ba/c12614a350906/page.htm)
 
 【报名截止：6.13 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1173/13908.htm)
+
+【报名截止：6.6 11:00】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3921.htm)
 
 【报名截止：6.5 12:00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5101.htm)
 
@@ -198,6 +204,8 @@
 
 【报名截止：N/A】[软件所中文信息处理实验室](https://mp.weixin.qq.com/s/Ly5wTU-VpHvzjKOywgJ2AA)
 
+【报名截止：7.10】[光电技术研究所-第二期](https://yjsb.ioe.ac.cn/zs/sszs/info/2025/51431.html)
+
 【报名截止：7.2】[城市环境研究所](https://iue.cas.cn/zxgg/202504/t20250421_7604942.html)
 
 【报名截止：7.1】[青海盐湖研究所](https://isl.cas.cn/yjs/xly/202504/t20250425_7615489.html)
@@ -221,6 +229,8 @@
 【报名截止：6.22】[声学研究所](https://www.ioa.cas.cn/yjs/zsxx/zstz/202505/t20250507_7643040.html)
 
 【报名截止：6.22】[海洋研究所](http://www.qdio.ac.cn/yjs/zsxx/xly/202505/t20250512_833503.html)
+
+【报名截止：6.20】[上海天文台](https://mp.weixin.qq.com/s/Z5vtRIO7S7U-KOXxIQkOvg)
 
 【报名截止：6.20】[分子细胞科学卓越创新中心](https://mp.weixin.qq.com/s/a_pZvha1pjzy_joRUTC9Ng)
 
@@ -263,6 +273,8 @@
 【报名截止：6.15】[文献情报中心所](https://mp.weixin.qq.com/s/OnE_OgTkcNa1ufc14vCr2Q)
 
 【报名截止：6.13 8：00】[地质与地球物理研究所](https://igg.cas.cn/jyyd/jy_upcoming/202505/t20250507_7643035.html)
+
+【报名截止：6.10】[光电技术研究所-第一期](https://yjsb.ioe.ac.cn/zs/sszs/info/2025/51431.html)
 
 【报名截止：5.19】[计算技术研究所](https://www.ict.ac.cn/xwgg/tzgg/202505/t20250507_7645217.html)
 
@@ -327,6 +339,10 @@
 ## 东北师范大学
 
 【报名截止：6.24 10:00】[物理学院](https://www.phy.nenu.edu.cn/info/1051/5089.htm)
+
+## 贵州财经大学
+
+【报名截止：6.13】[信息学院](https://xxxy.gufe.edu.cn/info/1049/4159.htm)
 
 ## 昌平实验室
 
