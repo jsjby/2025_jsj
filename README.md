@@ -83,6 +83,8 @@
 
 【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2025/0515/c21109a3049527/page.htm)
 
+【报名截止：6.5】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=249&id=2001)
+
 【报名截止：5.25 22:00】[管理学院](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm)
 
 【报名截止：5.21 17:00】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm)
@@ -161,6 +163,8 @@
 
 【报名截止：6.9 12：00】[数学科学学院](https://math.tongji.edu.cn/info/1037/12874.htm)
 
+【报名截止：6.6 12：00】[计算机科学与技术学院](https://cs.tongji.edu.cn/info/1022/3675.htm)
+
 【报名截止：6.6 11:00】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3921.htm)
 
 【报名截止：6.5 12:00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5101.htm)
@@ -199,6 +203,8 @@
 
 【报名截止：6.15 14：00】[杭高院数理学院](http://hias.ucas.ac.cn/mathphys/info/1166/1488.htm)
 
+【报名截止：6.10】[华大专项-北京站（北京华大生命科学研究院）](https://mp.weixin.qq.com/s/V4_efxOq0bGaePNs3OXu9A)
+
 【报名截止：6.10】[华大专项](https://mp.weixin.qq.com/s/N1DJtkwwODEiosdbBKIPKg)
 
 【报名截止：6.10】[华大专项-杭州站](https://mp.weixin.qq.com/s/Hbg2fOs57WQgwnF-Dh31Sg)
@@ -208,6 +214,8 @@
 【报名截止：5.30】[前沿交叉科学学院](https://mp.weixin.qq.com/s/xRw7sCbjFlflqUa7Z4r4Ug)
 
 ## 中国科学院
+
+【报名截止：N/A】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/ao7AJdpYqnrMo8LM0jnElw)
 
 【报名截止：N/A】[合肥物质科学研究院核能安全技术研究所-（中国科学技术大学学籍）](https://mp.weixin.qq.com/s/3sBBBlkQOGTKdOvkH9GHSw)
 
@@ -323,9 +331,11 @@
 
 【报名截止：6.15】[深港微电子学院](https://sme.sustech.edu.cn/index/news/neiye/id/798.html)
 
-【报名截止：6.9 9：00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/0q1ehbKmIFlTWaGspkzpmQ)
-
 【报名截止：6.15】[电子与电气工程系](https://mp.weixin.qq.com/s/LNwsGVIsycF1jUv2GpKV9Q)
+
+【报名截止：6.10 23：59】[环境学院（延长）](https://mp.weixin.qq.com/s/5cBLB9wGmY5OcS5voiD9gg)
+
+【报名截止：6.9 9：00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/0q1ehbKmIFlTWaGspkzpmQ)
 
 【报名截止：6.13 23:00】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/383.html)
 
@@ -362,6 +372,10 @@
 ## 贵州财经大学
 
 【报名截止：6.13】[信息学院](https://xxxy.gufe.edu.cn/info/1049/4159.htm)
+
+## 中国医学科学院 
+
+【报名截止：6.22】[北京协和医学院生物医学工程研究所](https://mp.weixin.qq.com/s/OcBvD3N82jw_f7EGRgjBGw)
 
 ## 昌平实验室
 
