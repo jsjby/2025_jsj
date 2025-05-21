@@ -61,6 +61,8 @@
 
 【报名截止：6.22 】[第七届医疗机器人国际暑期学校](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMTA5)
 
+【报名截止：6.15】[数学科学学院](https://mp.weixin.qq.com/s/jV2Ays24_3JEb1AIhR9izg)
+
 【报名截止：5.30】[溥渊未来技术学院-脑的真相与未来健康](https://mp.weixin.qq.com/s/BGYPyKPa0lt81EFMXKZL9g)
 
 ## 复旦大学
@@ -87,7 +89,7 @@
 
 【报名截止：5.25 22:00】[管理学院](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm)
 
-【报名截止：5.21 17:00】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm)
+~~【报名截止：5.21 17:00】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm)~~
 
 ~~【报名截止：5.20】[数据科学研究中心](https://mp.weixin.qq.com/s/H0ycm3ZqmWJHylxU4oVoHw)~~
 
@@ -175,7 +177,11 @@
 
 ## 中山大学
 
+【报名截止：6.15】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419108.htm)
+
 【报名截止：6.10】[国际金融学院](https://isbf.sysu.edu.cn/zh-hans/article/2367)
+
+【报名截止：6.5 23：59】[软件工程学院](https://sse.sysu.edu.cn/article/908)
 
 ~~【报名截止5.18 18：00】[测绘科学与技术学院](https://mp.weixin.qq.com/s/lBAL1EQL93J73Z7_CxoO9Q)~~
 
@@ -365,6 +371,8 @@
 
 ## 东北师范大学
 
+【报名截止：6.26 17：00】[信息科学与技术学院](https://ist.nenu.edu.cn/info/1157/5991.htm)
+
 【报名截止：6.24 10:00】[物理学院](https://www.phy.nenu.edu.cn/info/1051/5089.htm)
 
 【报名截止：5.27 16：00】[数学与统计学院](https://math.nenu.edu.cn/index/ztwz/xly2025.htm)
@@ -372,6 +380,10 @@
 ## 贵州财经大学
 
 【报名截止：6.13】[信息学院](https://xxxy.gufe.edu.cn/info/1049/4159.htm)
+
+## 河南工业大学
+
+【报名截止：6.15】[复杂性科学研究院](https://cs.haut.edu.cn/info/1421/7844.htm)
 
 ## 中国医学科学院 
 
