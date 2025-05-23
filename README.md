@@ -11,11 +11,13 @@
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
 
+【报名截止：6.18 9：00】[材料研究院](https://mp.weixin.qq.com/s/WzDR9i-B9itk4EaRy3kILg)
+
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/0gL08oY9xNMTZF98aFYkDw)
 
 【报名截止：6.6 17：00】[车辆与运载学院](https://mp.weixin.qq.com/s/8lhVddNzSgnY6U7o5hZEww)
 
-【报名截止：5.22 10:00】[航空发动机研究院](https://mp.weixin.qq.com/s/jC1YPTcfhGwyPqY8AlxM-g)
+~~【报名截止：5.22 10:00】[航空发动机研究院](https://mp.weixin.qq.com/s/jC1YPTcfhGwyPqY8AlxM-g)~~
 
 ~~【报名截止：5.15 11:00】[人工智能学院](https://collegeai.tsinghua.edu.cn/admission/index.php)~~
 
@@ -88,6 +90,8 @@
 【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2025/0515/c21109a3049527/page.htm)
 
 【报名截止：6.5】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=249&id=2001)
+
+【报名截止：5.25 22:00】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3662.html)
 
 【报名截止：5.25 22:00】[管理学院](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm)
 
@@ -179,6 +183,8 @@
 
 ## 中山大学
 
+【报名截止：6.20】[海洋科学学院](https://marine.sysu.edu.cn/article/10448)
+
 【报名截止：6.15】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419108.htm)
 
 【报名截止：6.10】[国际金融学院](https://isbf.sysu.edu.cn/zh-hans/article/2367)
@@ -200,6 +206,8 @@
 ## 中国科学院大学
 
 【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/6496.htm)
+
+【报名截止：6.25】[杭州高等研究院药物科学与技术学院](https://mp.weixin.qq.com/s/qkGzA_K7c25eGHcS7AgaZg)
 
 【报名截止：6.20】[环境材料与污染控制技术研究中心](https://emct.ucas.ac.cn/index.php/zh/tzgg/382-2026-1)
 
