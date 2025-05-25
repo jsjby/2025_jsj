@@ -323,6 +323,8 @@
 
 【报名截止：6.5】[西安光学精密机械研究所-第一期](https://mp.weixin.qq.com/s/F1cF-GDdXrKsmwetsTGERg)
 
+【报名截止：6.5>】[古脊椎动物与古人类研究所分子古生物学实验室（付巧妹研究员课题组）](https://www.ivpp.ac.cn/tzgg/202505/t20250523_7790931.html)
+
 ~~【报名截止：5.19】[计算技术研究所](https://www.ict.ac.cn/xwgg/tzgg/202505/t20250507_7645217.html)~~
 
 ~~【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)~~
