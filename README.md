@@ -85,6 +85,8 @@
 
 【报名截止：6.20 12：00】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2025/0524/c63837a3054767/page.htm)
 
+【报名截止：6.18】[生命科学研究院](http://lsi.zju.edu.cn/2025/0521/c25130a3053556/page.htm)
+
 【报名截止：6.16】[集成电路学院](https://ic.zju.edu.cn/2025/0522/c54011a3054130/page.htm)
 
 【报名截止：6.15】[海洋学院](http://oc.zju.edu.cn/2025/0523/c52420a3054699/page.htm)
@@ -138,6 +140,8 @@
 【报名截止：6.7 17:00】[（深圳）信息科学与技术学院](http://cist.hitsz.edu.cn/info/1038/2039.htm)
 
 ## 西安交通大学
+
+【报名截止：6.20】[人居环境与建筑工程学院](https://hsce.xjtu.edu.cn/info/1014/13404.htm)
 
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
 
@@ -377,7 +381,7 @@
 
 【报名截止：6.16 10：00】[理学院交叉科学中心](https://science.westlake.edu.cn/newsevents/news/202504/t20250428_55158.shtml)
 
-【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
+~~【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)~~
 
 ## 中国人民解放军海军工程大学
 
@@ -419,6 +423,10 @@
 
 【报名截止：6.22】[北京协和医学院生物医学工程研究所](https://mp.weixin.qq.com/s/OcBvD3N82jw_f7EGRgjBGw)
 
+##  中国工程物理研究院
+
+【报名截止：6.20 12：00】[中国工程物理研究院](https://zsxx.gscaep.ac.cn/enrollment/detail/1955)
+
 ## 昌平实验室
 
 【报名截止：5.30 17:00】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f195f2f0cd0195f50b80cb0017.html)
@@ -426,6 +434,10 @@
 ##  临港实验室
 
 【报名截止：6.30】[临港实验室](https://mp.weixin.qq.com/s/kA0eAz5ClUUvEDRhAKyUWQ)
+
+## 鹏城国家实验室
+
+【报名截止：7，6】[鹏城国家实验室](https://mp.weixin.qq.com/s/vp_JknQ_YuPnUlrD8206aw)
 
 ## 上海人工智能实验室
 
@@ -483,7 +495,7 @@
 
 【报名截止：N/A】[（广州）智能制造博士项目](https://mp.weixin.qq.com/s/mXSzUAgvS27tT1qg8d88Eg)
 
-【报名截止：5.26】[（广州）智能制造学域](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA)
+~~【报名截止：5.26】[（广州）智能制造学域](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA)~~
 
 ## 澳门大学
 
