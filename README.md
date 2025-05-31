@@ -91,6 +91,8 @@
 
 【报名截止：6.25】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3664.html)
 
+【报名截止：6.25】[网络空间安全学院](https://icsr.zju.edu.cn/2025/0530/c70139a3057302/page.htm)
+
 【报名截止：6.20 12：00】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2025/0524/c63837a3054767/page.htm)
 
 【报名截止：6.18】[生命科学研究院](http://lsi.zju.edu.cn/2025/0521/c25130a3053556/page.htm)
@@ -185,13 +187,15 @@
 
 ## 北京师范大学
 
-【报名截止：6.15】[教育学部教育技术学院](https://fe.bnu.edu.cn/html/1/news/20250526/n8799.html)
-
 【报名截止：6.22】[未来技术学院](https://mp.weixin.qq.com/s/43jQc5swHvZWMXoXzeBTyg)
 
 【报名截止：6.18】[数学科学学院](https://math.bnu.edu.cn/yjshd/f17ddab305424052ae7bbad7b9fbad2d.htm)
 
 【报名截止：6.18】[系统科学学院](https://sss.bnu.edu.cn/zszp/zsxx/361c30e8705b43d3814ee5ac9172b337.htm)
+
+【报名截止：6.15】[文理学院](https://fas.bnu.edu.cn/xwdt/tzgg/cf10654007224bf083a1f961611ab37c.htm)
+
+【报名截止：6.15】[教育学部教育技术学院](https://fe.bnu.edu.cn/html/1/news/20250526/n8799.html)
 
 ## 天津大学
 
@@ -233,6 +237,8 @@
 
 【报名截止：6.21】[理学院](https://science.sysu.edu.cn/article/993)
 
+【报名截止：6.20】[柔性电子学院](https://mp.weixin.qq.com/s/TA9_iyAQwoP5swvOX0Ag2g)
+
 【报名截止：6.20】[海洋科学学院](https://marine.sysu.edu.cn/article/10448)
 
 【报名截止：6.16】[中山医学院](https://zssom.sysu.edu.cn/article/11443)
@@ -242,6 +248,8 @@
 【报名截止：6.15】[数学学院](https://math.sysu.edu.cn/article/3709)
 
 【报名截止：6.15 18:00】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1229)
+
+【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)
 
 【报名截止：6.10】[国际金融学院](https://isbf.sysu.edu.cn/zh-hans/article/2367)
 
@@ -489,6 +497,8 @@
 
 ## 上海财经大学
 
+【报名截止：6.30】[信息管理与工程学院](https://sime.sufe.edu.cn/af/f2/c10226a241650/page.htm)
+
 【报名截止：6.20】[数学学院](https://mp.weixin.qq.com/s/vX6Qi46b0-XnA78NipOJmA)
 
 【报名截止：06.16】[统计与数据科学学院](https://mp.weixin.qq.com/s/ZCUaCKurzuKU3kwysMuhow)
@@ -516,6 +526,10 @@
 【报名截止：6.20】[北京应用物理与计算数学研究所](https://mp.weixin.qq.com/s/tPfmKdfVAn8xnhGPzpBW-g)
 
 【报名截止：6.20 12：00】[中国工程物理研究院](https://zsxx.gscaep.ac.cn/enrollment/detail/1955)
+
+## 中国航天科工集团
+
+【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)
 
 ## 昌平实验室
 
@@ -574,6 +588,8 @@
 【报名截止：N/A】[上海创智学院](https://admissions.sii.edu.cn/selectsbforapost.html)
 
 ## 香港中文大学
+
+【报名截止：6.30】[深圳）理工学院](https://mp.weixin.qq.com/s/LEAOQU1TA8WCxyxE5Idftg)
 
 【报名截止：6.20】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)
 
