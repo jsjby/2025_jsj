@@ -11,6 +11,8 @@
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
 
+【报名截止：6.20 17：00】[SIGS生物医药与健康工程研究院](https://mp.weixin.qq.com/s/Q20dMlGA0CchvO83fBoexg)
+
 【报名截止：6.18 9：00】[（深圳）材料研究院](https://mp.weixin.qq.com/s/WzDR9i-B9itk4EaRy3kILg)
 
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/0gL08oY9xNMTZF98aFYkDw)
@@ -59,6 +61,8 @@
 
 【报名截止：N/A】[人工智能与微结构实验室 ](https://mp.weixin.qq.com/s/oGoMc1WJAaLqChqgiLXitA)
 
+【报名截止：6.29 10：00】[生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
 【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)
 
 【报名截止：6.22 】[第七届医疗机器人国际暑期学校](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMTA5)
@@ -98,6 +102,8 @@
 【报名截止：6.15】[生物系统工程与食品科学学院](http://www.caefs.zju.edu.cn/2025/0508/c68202a3046985/page.htm)
 
 【报名截止：6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2025/0515/c21109a3049527/page.htm)
+
+【报名截止：6.14】[航空航天学院](http://saa.zju.edu.cn/2025/0530/c67589a3057159/page.htm)
 
 【报名截止：6.12 17：00】[光电科学与工程学院](http://opt.zju.edu.cn/2025/0529/c72768a3056916/page.htm)
 
@@ -147,7 +153,11 @@
 
 ## 西安交通大学
 
+【报名截止：N/A】[网络空间安全学院-6月举办夏令营](https://cybersec.xjtu.edu.cn/info/1017/2053.htm)
+
 【报名截止：6.30】[软件学院](https://se.xjtu.edu.cn/info/1043/3448.htm)
+
+【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/2022.htm)
 
 【报名截止：6.20】[人居环境与建筑工程学院](https://hsce.xjtu.edu.cn/info/1014/13404.htm)
 
@@ -156,6 +166,8 @@
 【报名截止：6.10】[自动化科学与工程学院](https://automation.xjtu.edu.cn/info/1009/2253.htm)
 
 【报名截止：6.10】[计算机科学与技术学院](http://www.cs.xjtu.edu.cn/info/1233/3673.htm)
+
+【报名截止：6.10】[数学与统计学院](https://math.xjtu.edu.cn/info/1086/13907.htm)
 
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
 
@@ -172,6 +184,8 @@
 ## 北京师范大学
 
 【报名截止：6.22】[未来技术学院](https://mp.weixin.qq.com/s/43jQc5swHvZWMXoXzeBTyg)
+
+【报名截止：6.18】[数学科学学院](https://math.bnu.edu.cn/yjshd/f17ddab305424052ae7bbad7b9fbad2d.htm)
 
 【报名截止：6.18】[系统科学学院](https://sss.bnu.edu.cn/zszp/zsxx/361c30e8705b43d3814ee5ac9172b337.htm)
 
@@ -212,6 +226,8 @@
 【报名截止：境内6/23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
 
 ## 中山大学
+
+【报名截止：6.21】[理学院](https://science.sysu.edu.cn/article/993)
 
 【报名截止：6.20】[海洋科学学院](https://marine.sysu.edu.cn/article/10448)
 
