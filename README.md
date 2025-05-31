@@ -155,6 +155,8 @@
 
 【报名截止：N/A】[网络空间安全学院-6月举办夏令营](https://cybersec.xjtu.edu.cn/info/1017/2053.htm)
 
+【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)
+
 【报名截止：6.30】[软件学院](https://se.xjtu.edu.cn/info/1043/3448.htm)
 
 【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/2022.htm)
@@ -182,6 +184,8 @@
 【报名截止：5.28】[化工学院暨能源材料化学协同创新中心](https://chem.xmu.edu.cn/info/1272/117455.htm)
 
 ## 北京师范大学
+
+【报名截止：6.15】[教育学部教育技术学院](https://fe.bnu.edu.cn/html/1/news/20250526/n8799.html)
 
 【报名截止：6.22】[未来技术学院](https://mp.weixin.qq.com/s/43jQc5swHvZWMXoXzeBTyg)
 
@@ -305,11 +309,13 @@
 
 【报名截止：7.9】[重庆绿色智能技术研究院2025](http://www.cigit.cas.cn/yjsjy/sszs/sstz/202505/t20250527_7791955.html)
 
+【报名截止：7.3】[沈阳自动化研究所](https://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202505/t20250530_7794564.html)
+
 【报名截止：7.2】[城市环境研究所](https://iue.cas.cn/zxgg/202504/t20250421_7604942.html)
 
 【报名截止：7.1】[青海盐湖研究所](https://isl.cas.cn/yjs/xly/202504/t20250425_7615489.html)
 
-【报名截止：7.1】[青海盐湖研究所](https://isl.cas.cn/yjs/xly/202504/t20250425_7615489.html)
+【报名截止：7.1】[计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/zsxx/tjms/202505/t20250530_7794688.html)
 
 【报名截止：6.30】[精密测量科学与技术创新研究院](https://apm.cas.cn/yjsjy/kjrh/dxsxly/202505/t20250506_7642169.html)
 
@@ -319,6 +325,14 @@
 
 【报名截止：6.27】[近代物理研究所](https://imp.cas.cn/edu/zsyds/zsdt/zs/202505/t20250512_7650389.html)
 
+【报名截止：6.25】[合成生物学研究所](https://mp.weixin.qq.com/s/qiL-CxH3k4Bf71hnpxYnFw)
+
+【报名截止：6.25】[国家空间科学中心](https://nssc.cas.cn/yjsb/zsxx/xly/202505/t20250530_7794257.html)
+
+【报名截止：6.25】[深圳先进技术研究院](https://www.siat.ac.cn/jyjx/zsxx/xly/202505/t20250529_7793841.html)
+
+【报名截止：6.25】[深圳先进技术研究院生物医药与技术研究所](https://mp.weixin.qq.com/s/JqnHItPd0ICbH47X9O96Hg)
+
 【报名截止：6.25】[高能物理研究所](https://www.ihep.cas.cn/edu/bks/xly/202504/t20250429_7632800.html)
 
 【报名截止：6.25】[遗传发育所](https://genetics.cas.cn/edu/zsxx/xlytms/202504/t20250424_7611154.html)
@@ -326,6 +340,8 @@
 【报名截止：6.25】[新疆理化所](http://www.xjipc.cas.cn/yjs/tzgg/202505/t20250513_7650725.html)
 
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://www.ion.ac.cn/yjs/tzgg/202503/t20250327_7566333.html)
+
+【报名截止：6.23】[软件研究所](https://www.iscas.ac.cn/yjsjy2016/zsxx2016/202505/t20250530_7794448.html)
 
 【报名截止：6.22】[声学研究所](https://www.ioa.cas.cn/yjs/zsxx/zstz/202505/t20250507_7643040.html)
 
@@ -358,6 +374,8 @@
 【报名截止：6.20】[新疆天文台](https://xao.ac.cn/xwdt/tzgg/202505/t20250509_7649140.html)
 
 【报名截止：6.20 17:00】[微小卫星创新研究院](https://mp.weixin.qq.com/s/mt6QVeR0n-NtD4GNFSMMJA)
+
+【报名截止：6.18】[数学与系统科学研究院](https://amss.cas.cn/admission/sszs/tzgg/202505/t20250529_7793868.html)
 
 【报名截止：6.18】[大连化学物理研究所](https://mp.weixin.qq.com/s/Q0sdKctC7Sm9MF1M-y3Ikg)
 
@@ -475,6 +493,10 @@
 
 【报名截止：06.16】[统计与数据科学学院](https://mp.weixin.qq.com/s/ZCUaCKurzuKU3kwysMuhow)
 
+## 华中农业大学
+
+【报名截止：6.16 8：00】[植科院](https://cpst.hzau.edu.cn/info/1252/21310.htm)
+
 ## 松山湖材料实验室
 
 【报名截止：6.12】[松山湖材料实验室](https://sslab.org.cn/news/noticedetail?id=25052118395620250DD1B64D0)
@@ -488,6 +510,8 @@
 【报名截止：6.22】[北京协和医学院生物医学工程研究所](https://mp.weixin.qq.com/s/OcBvD3N82jw_f7EGRgjBGw)
 
 ##  中国工程物理研究院
+
+【报名截止：6.26】[北京计算科学研究中心](https://mp.weixin.qq.com/s/pW5P07imjsq79R5ezqR0rA)
 
 【报名截止：6.20】[北京应用物理与计算数学研究所](https://mp.weixin.qq.com/s/tPfmKdfVAn8xnhGPzpBW-g)
 
