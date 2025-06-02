@@ -51,7 +51,7 @@
 
 【报名截止：6.5 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/13490.html)
 
-【报名截止：6.1】[城市规划与设计学院](https://urban.pkusz.edu.cn/info/1008/3634.htm)
+~~【报名截止：6.1】[城市规划与设计学院](https://urban.pkusz.edu.cn/info/1008/3634.htm)~~
 
 ~~【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)~~
 
@@ -69,7 +69,7 @@
 
 【报名截止：6.15】[数学科学学院](https://mp.weixin.qq.com/s/jV2Ays24_3JEb1AIhR9izg)
 
-【报名截止：5.30】[溥渊未来技术学院-脑的真相与未来健康](https://mp.weixin.qq.com/s/BGYPyKPa0lt81EFMXKZL9g)
+~~【报名截止：5.30】[溥渊未来技术学院-脑的真相与未来健康](https://mp.weixin.qq.com/s/BGYPyKPa0lt81EFMXKZL9g)~~
 
 ## 复旦大学
 
@@ -81,7 +81,7 @@
 
 【报名截止：6.2】[计算机学院](https://cs.nju.edu.cn/91/cc/c1702a758220/page.htm)
 
-【报名截止：6.1】[LAMDA](https://www.lamda.nju.edu.cn/recruit-2026/recruit-2026.html)
+~~【报名截止：6.1】[LAMDA](https://www.lamda.nju.edu.cn/recruit-2026/recruit-2026.html)~~
 
 ## 浙江大学
 
@@ -186,6 +186,8 @@
 ~~【报名截止：5.28】[化工学院暨能源材料化学协同创新中心](https://chem.xmu.edu.cn/info/1272/117455.htm)~~
 
 ## 北京师范大学
+
+【报名截止：7.2】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm)
 
 【报名截止：6.22】[未来技术学院](https://mp.weixin.qq.com/s/43jQc5swHvZWMXoXzeBTyg)
 
