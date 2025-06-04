@@ -167,6 +167,10 @@
 
 【报名截止：6.30】[软件学院](https://se.xjtu.edu.cn/info/1043/3448.htm)
 
+【报名截止：6.30 10：00】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1009/4433.htm)
+
+【报名截止：6.30 10：00】[前沿科学技术学科交叉中心](https://fist.xjtu.edu.cn/info/1013/4434.htm)
+
 【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/2022.htm)
 
 【报名截止：6.20】[人居环境与建筑工程学院](https://hsce.xjtu.edu.cn/info/1014/13404.htm)
@@ -202,6 +206,8 @@
 【报名截止：6.18】[数学科学学院](https://math.bnu.edu.cn/yjshd/f17ddab305424052ae7bbad7b9fbad2d.htm)
 
 【报名截止：6.18】[系统科学学院](https://sss.bnu.edu.cn/zszp/zsxx/361c30e8705b43d3814ee5ac9172b337.htm)
+
+【报名截止：6.15】[地理科学学部](https://geo.bnu.edu.cn/tzgg/8fb701666c554fe6a59d63c85ace7870.html)
 
 【报名截止：6.15】[文理学院](https://fas.bnu.edu.cn/xwdt/tzgg/cf10654007224bf083a1f961611ab37c.htm)
 
@@ -244,6 +250,8 @@
 【报名截止：境内6/23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
 
 ## 中山大学
+
+【报名截止：6.22 22：00】[材药学院（深圳）](https://yxysz.sysu.edu.cn/zh-hans/article/1570)
 
 【报名截止：6.21】[理学院](https://science.sysu.edu.cn/article/993)
 
@@ -485,6 +493,12 @@
 
 【报名截止：N/A】[中国人民解放军海军工程大学](https://mp.weixin.qq.com/s/gmemPjfiwzruRWYTJ5HTMA)
 
+## 中国地质大学
+
+【报名截止：6.20】[（武汉）地理与信息工程学院](https://xgxy.cug.edu.cn/info/1013/32730.htm)
+
+【报名截止：6.20】[（武汉）计算机学院](https://cs.cug.edu.cn/info/1021/8621.htm)
+
 ## 广东工业大学
 
 【报名截止：6.13】[信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8485.htm)
@@ -510,6 +524,8 @@
 【报名截止：6.5】[脑与认知神经科学研究中心](https://brain.lnnu.edu.cn/info/1013/1512.htm)
 
 ## 上海财经大学
+
+【报名截止：6.30】[交叉科学研究院](https://mp.weixin.qq.com/s/NDqvoPLTeVbLFCeHgqDCtw)
 
 【报名截止：6.30】[信息管理与工程学院](https://sime.sufe.edu.cn/af/f2/c10226a241650/page.htm)
 
