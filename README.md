@@ -17,6 +17,8 @@
 
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/0gL08oY9xNMTZF98aFYkDw)
 
+【报名截止：6.10】[电子工程系](https://www.ee.tsinghua.edu.cn/info/1078/4791.htm)
+
 【报名截止：6.10】[工业工程系](https://www.ie.tsinghua.edu.cn/info/1071/4000.htm)
 
 【报名截止：6.6 17：00】[车辆与运载学院](https://mp.weixin.qq.com/s/8lhVddNzSgnY6U7o5hZEww)
@@ -69,6 +71,8 @@
 
 【报名截止：6.25】[国家电投智慧能源创新学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
+【报名截止：6.23】[系统生物医学研究院](https://mp.weixin.qq.com/s/d3NtgKvi9kX91pVaXS8OkA)
+
 【报名截止：6.23 17：00】[董浩云智能制造与服务管理研究院（中美物流研究院）](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)
@@ -95,6 +99,8 @@
 
 【报名截止：N/A】[良渚实验室-夏令营](https://mp.weixin.qq.com/s/7TVxhRpdx0_vjOiGZBzs8g)
 
+【报名截止：7.2】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3061)
+
 【报名截止：6.25】[计算机学院](http://www.cs.zju.edu.cn/csen/2025/0528/c27011a3056015/page.htm)
 
 【报名截止：6.25】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3664.html)
@@ -117,7 +123,7 @@
 
 【报名截止：6.12 17：00】[光电科学与工程学院](http://opt.zju.edu.cn/2025/0529/c72768a3056916/page.htm)
 
-【报名截止：6.5】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=249&id=2001)
+~~【报名截止：6.5】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=249&id=2001)~~
 
 ~~【报名截止：5.25 22:00】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3662.html)~~
 
@@ -253,6 +259,8 @@
 
 ## 中山大学
 
+【报名截止：6.23 9：00】[医学院](https://szmed.sysu.edu.cn/zh-hans/article/3377)
+
 【报名截止：6.22】[信息管理学院](https://ischool.sysu.edu.cn/zh-hans/article/759)
 
 【报名截止：6.22 22：00】[材药学院（深圳）](https://yxysz.sysu.edu.cn/zh-hans/article/1570)
@@ -283,6 +291,20 @@
 
 【报名截止：6.10】[基础与前沿研究院](https://iffs.uestc.edu.cn/info/1049/6292.htm)
 
+## 华中科技大学
+
+【报名截止：6.18 17：00】[数学与统计学院](https://maths.hust.edu.cn/info/1279/11946.htm)
+
+## 华东师范大学
+
+【报名截止：6.16】[数学科学学院](https://math.ecnu.edu.cn/newsdetail.html?xqid=3656)
+
+## 吉林大学
+
+【报名截止：6.20 12：00】[计算机科学与技术学院](http://ccst.jlu.edu.cn/info/1229/20419.htm)
+
+【报名截止：6.20 11：00】[软件学院](https://csw.jlu.edu.cn/info/1156/7879.htm)
+
 ## 山东大学
 
 【报名截止：6.15】[青岛理论与计算科学研究院](https://mp.weixin.qq.com/s/extAvDtlckq4VszZCYZ8XQ)
@@ -294,6 +316,8 @@
 【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/6496.htm)
 
 【报名截止：6.25】[杭州高等研究院药物科学与技术学院](https://mp.weixin.qq.com/s/qkGzA_K7c25eGHcS7AgaZg)
+
+【报名截止：6.25】[心理学系 中国科学院心理研究所](https://psych.cas.cn/edu/zsxx/sszs/202506/t20250605_7798024.html)
 
 【报名截止：6.23】[生命科学学院](https://bio.ucas.ac.cn/index.php/tzgg/76642-2025-2026)
 
@@ -314,6 +338,8 @@
 【报名截止：6.15】[应急管理科学与工程学院](https://emse.ucas.ac.cn/index.php/zh/ezsjy/esshzs/472-2025-11)
 
 【报名截止：6.15 14：00】[杭高院数理学院](http://hias.ucas.ac.cn/mathphys/info/1166/1488.htm)
+
+【报名截止：6.13 17：00】[前沿交叉科学学院](https://mp.weixin.qq.com/s/VYEE2l9HfV0NZ3CfVvxbPQ)
 
 【报名截止：6.10】[华大专项-北京站（北京华大生命科学研究院）](https://mp.weixin.qq.com/s/V4_efxOq0bGaePNs3OXu9A)
 
@@ -499,6 +525,10 @@
 
 ## 中国地质大学
 
+【报名截止：6.20】[未来技术学院](https://sft.cug.edu.cn/info/1161/6579.htm)
+
+【报名截止：6.20】[（武汉）数学与物理学院](https://slxy.cug.edu.cn/info/1017/9549.htm)
+
 【报名截止：6.20】[（武汉）地理与信息工程学院](https://xgxy.cug.edu.cn/info/1013/32730.htm)
 
 【报名截止：6.20】[（武汉）计算机学院](https://cs.cug.edu.cn/info/1021/8621.htm)
@@ -529,6 +559,8 @@
 
 ## 上海财经大学
 
+【报名截止：6.30】[计算机与人工智能学院](https://mp.weixin.qq.com/s/AZuPwXlfniLY0o2cBL5zGw)
+
 【报名截止：6.30】[交叉科学研究院](https://mp.weixin.qq.com/s/NDqvoPLTeVbLFCeHgqDCtw)
 
 【报名截止：6.30】[信息管理与工程学院](https://sime.sufe.edu.cn/af/f2/c10226a241650/page.htm)
@@ -536,6 +568,14 @@
 【报名截止：6.20】[数学学院](https://mp.weixin.qq.com/s/vX6Qi46b0-XnA78NipOJmA)
 
 【报名截止：06.16】[统计与数据科学学院](https://mp.weixin.qq.com/s/ZCUaCKurzuKU3kwysMuhow)
+
+## 上海外国语大学
+
+【报名截止：6.19】[国际金融贸易学院应用经济学学术型](https://yz.shisu.edu.cn/02/f1/c17817a197361/page.htm)
+
+【报名截止：6.19】[国际工商管理学院](https://yz.shisu.edu.cn/03/3f/c17817a197439/page.htm)
+
+【报名截止：6.19】[语言科学研究院](https://yz.shisu.edu.cn/03/43/c17817a197443/page.htm)
 
 ## 华中农业大学
 
@@ -605,7 +645,7 @@
 
 ## 北京量子信息科学研究院
 
-【报名截止：6.5 10：00】[北京量子信息科学研究院](https://mp.weixin.qq.com/s/dQbO1QC9V7dklGGoP9OgZA)
+~~【报名截止：6.5 10：00】[北京量子信息科学研究院](https://mp.weixin.qq.com/s/dQbO1QC9V7dklGGoP9OgZA)~~
 
 ## 广州国家实验室
 
