@@ -41,6 +41,8 @@
 
 【报名截止：6.26 17：00】[新材料学院](https://mp.weixin.qq.com/s/k7J5hdVxYEgVpsHsp7IHOg)
 
+【报名截止：6.20】[数学科学学院](https://www.math.pku.edu.cn/zygg/168587.htm)
+
 【报名截止：6.20】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2924.htm)
 
 【报名截止：6.18 8：00】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/fe8d13de71c144ddadc0ba59d283ed5d.htm)
@@ -92,6 +94,8 @@
 【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)
 
 【报名截止：6.22 】[第七届医疗机器人国际暑期学校](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMTA5)
+
+【报名截止：6.17】[数学科学学院](https://math.sjtu.edu.cn/Default/gonggaoshow/tag/MDAwMDAwMDAwMLGIfpSF2qF2)
 
 【报名截止：6.15】[数学科学学院](https://mp.weixin.qq.com/s/jV2Ays24_3JEb1AIhR9izg)
 
@@ -161,27 +165,27 @@
 
 【报名截止：6.10】[数学学院](https://math.hit.edu.cn/2025/0507/c10380a369564/page.htm)
 
-【报名截止：：6.7】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1421)
+~~【报名截止：：6.7】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1421)~~
 
-【报名截止：6.7】[哈尔滨工业大学（威海）](https://mp.weixin.qq.com/s/mca57gNQv_7Yx9QuffQQgg?poc_token=HDH4GmijhM1l-_1YFCsieOdDyC2lA_0jRJJkk8lb)
+~~【报名截止：6.7】[哈尔滨工业大学（威海）](https://mp.weixin.qq.com/s/mca57gNQv_7Yx9QuffQQgg?poc_token=HDH4GmijhM1l-_1YFCsieOdDyC2lA_0jRJJkk8lb)~~
 
-【报名截止：6.7】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0510/c17101a369720/page.htm)
+~~【报名截止：6.7】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0510/c17101a369720/page.htm)~~
 
-【报名截止：6.7】[计算学部](https://cs.hit.edu.cn/2025/0507/c11271a369599/pagem.htm)
+~~【报名截止：6.7】[计算学部](https://cs.hit.edu.cn/2025/0507/c11271a369599/pagem.htm)~~
 
-【报名截止:6.7】[（深圳）信息学部计算机科学与技术学院](http://cist.hitsz.edu.cn/info/1038/2037.htm)
+~~【报名截止:6.7】[（深圳）信息学部计算机科学与技术学院](http://cist.hitsz.edu.cn/info/1038/2037.htm)~~
 
-【报名截止：6.7】[前沿学部医工学院](http://bme.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2952)
+~~【报名截止：6.7】[前沿学部医工学院](http://bme.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2952)~~
 
-【报名截止:6.7】[航天学院](https://sa.hit.edu.cn/2025/0508/c6582a369658/page.htm)
+~~【报名截止:6.7】[航天学院](https://sa.hit.edu.cn/2025/0508/c6582a369658/page.htm)~~
 
-【报名截止：6.7 22:00】[生命科学和医学学部](https://life.hit.edu.cn/2025/0507/c6157a369604/page.htm)
+~~【报名截止：6.7 22:00】[生命科学和医学学部](https://life.hit.edu.cn/2025/0507/c6157a369604/page.htm)~~
 
-【报名截止：6.7 17:00】[（深圳）理学院](http://ssc.hitsz.edu.cn/info/1051/2771.htm)
+~~【报名截止：6.7 17:00】[（深圳）理学院](http://ssc.hitsz.edu.cn/info/1051/2771.htm)~~
 
-【报名截止：6.7 17:00】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2841)
+~~【报名截止：6.7 17:00】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2841)~~
 
-【报名截止：6.7 17:00】[（深圳）信息科学与技术学院](http://cist.hitsz.edu.cn/info/1038/2039.htm)
+~~【报名截止：6.7 17:00】[（深圳）信息科学与技术学院](http://cist.hitsz.edu.cn/info/1038/2039.htm)~~
 
 ## 西安交通大学
 
@@ -220,6 +224,10 @@
 【报名截止：6.10 12:00】[经济学科-夏令营之四金融硕士（含人工智能金融方向）](https://chow.xmu.edu.cn/info/1103/36662.htm)
 
 ~~【报名截止：5.28】[化工学院暨能源材料化学协同创新中心](https://chem.xmu.edu.cn/info/1272/117455.htm)~~
+
+## 北京航空航天大学
+
+【报名截止：6.15 12：00】[宇航学院](http://www.sa.buaa.edu.cn/info/1051/11332.htm)
 
 ## 北京师范大学
 
@@ -307,7 +315,7 @@
 
 【报名截止：6.10】[国际金融学院](https://isbf.sysu.edu.cn/zh-hans/article/2367)
 
-【报名截止：6.5 23：59】[软件工程学院](https://sse.sysu.edu.cn/article/908)
+~~【报名截止：6.5 23：59】[软件工程学院](https://sse.sysu.edu.cn/article/908)~~
 
 ~~【报名截止5.18 18：00】[测绘科学与技术学院](https://mp.weixin.qq.com/s/lBAL1EQL93J73Z7_CxoO9Q)~~
 
@@ -320,6 +328,8 @@
 【报名截止：6.28】[同济医学院基础医学院](https://mp.weixin.qq.com/s/U4ujcp_8ccGPuyf4DBGVFQ)
 
 【报名截止：6.18 17：00】[数学与统计学院](https://maths.hust.edu.cn/info/1279/11946.htm)
+
+【报名截止：6.17 23：00】[生命科学与技术学院](https://life.hust.edu.cn/info/1855/11657.htm)
 
 ## 华东师范大学
 
@@ -412,6 +422,8 @@
 【报名截止：6.29】[东北地理与农业生态研究所](https://neigae.cas.cn/temp/notice/202505/t20250528_7793175.html)
 
 【报名截止：6.27】[近代物理研究所](https://imp.cas.cn/edu/zsyds/zsdt/zs/202505/t20250512_7650389.html)
+
+【报名截止：6.26】[信息工程研究所](https://mp.weixin.qq.com/s/DCO0ZoN8AYKKxmc8r9yklg)
 
 【报名截止：6.25】[深圳先进技术研究院生物医学与健康工程研究所](https://mp.weixin.qq.com/s/Dqw-33ub0MqaSI5cyRYFfA)
 
@@ -623,11 +635,15 @@
 
 ## 自然资源部
 
+【报名截止：7.11】[第二海洋研究所](https://www.sio.org.cn/a/tzgg/22756.html)
+
 【报名截止：6.19】[第一海洋研究所](https://mp.weixin.qq.com/s/nnpy2oxL1fSKwuxF5qRuPg)
 
 ## 中国医学科学院 
 
 【报名截止：6.22】[北京协和医学院生物医学工程研究所](https://mp.weixin.qq.com/s/OcBvD3N82jw_f7EGRgjBGw)
+
+【报名截止：6.15】[北京协和医学院卫生健康管理政策学院](https://shpm.pumc.edu.cn/zsjy/5196b37386794c0eaef744b6d95cd9ed.htm)
 
 ##  中国工程物理研究院
 
