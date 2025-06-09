@@ -5,6 +5,8 @@
 
 ## 清华大学
 
+> 【报名截止：7.28 12：00】[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)
+
 【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
 
 【报名截止：N/A】[智能产业研究院](https://mp.weixin.qq.com/s/8hYxusP2fwZKr0kbFVOa3A)
@@ -611,7 +613,7 @@
 
 【报名截止：6.20】[数学学院](https://mp.weixin.qq.com/s/vX6Qi46b0-XnA78NipOJmA)
 
-【报名截止：06.16】[统计与数据科学学院](https://mp.weixin.qq.com/s/ZCUaCKurzuKU3kwysMuhow)
+【报名截止：6.16】[统计与数据科学学院](https://mp.weixin.qq.com/s/ZCUaCKurzuKU3kwysMuhow)
 
 ## 上海外国语大学
 
