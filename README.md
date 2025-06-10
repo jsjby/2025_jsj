@@ -109,11 +109,23 @@
 
 【报名截止：N/A】[复杂体系多尺度研究院/宣讲会](https://mp.weixin.qq.com/s/bgsP4Kyjj2gT5O5QaU50xQ)
 
+【报名截止：7.5 17：00】[大数据学院](https://sds.fudan.edu.cn/3d/23/c17701a736547/page.htm)
+
+【报名截止：6.25 17：00】[未来信息创新学院](http://www.it.fudan.edu.cn/Data/View/4888)
+
+【报名截止：6.25 17：00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1188/8020.htm)
+
+【报名截止：6.25 17：00】[人类表型组研究院](https://hupi.fudan.edu.cn/info/1064/4456.htm)
+
 【报名截止：6.25 17：00】[文献信息中心](https://library.fudan.edu.cn/zyss/3c/8c/c42196a736396/page.htm)
 
 【报名截止：6.25 17：00】[代谢与整合生物学研究院2025](https://imib.fudan.edu.cn/3c/81/c22758a736385/page.htm)
 
 【报名截止：6.25 17：00】[上海数学与交叉学科研究院](hhttps://www.simis.cn/zh_cn/2025-uni-camp/)
+
+【报名截止：6.24 17：00】[大气与海洋科学系](https://atmsci.fudan.edu.cn/3c/a3/c14829a736419/page.htm)
+
+【报名截止：6.23 17：00】[数学科学学院、上海数学中心](https://scms.fudan.edu.cn/info/1047/9251.htm)
 
 ## 南京大学
 
@@ -126,6 +138,8 @@
 【报名截止：N/A】[良渚实验室-夏令营](https://mp.weixin.qq.com/s/7TVxhRpdx0_vjOiGZBzs8g)
 
 【报名截止：7.2】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3061)
+
+【报名截止：6.30】[环境与资源学院](http://www.cers.zju.edu.cn/cercn/2025/0609/c58399a3060095/page.htm)
 
 【报名截止：6.25】[计算机学院](http://www.cs.zju.edu.cn/csen/2025/0528/c27011a3056015/page.htm)
 
@@ -198,6 +212,8 @@
 ## 西安交通大学
 
 【报名截止：N/A】[网络空间安全学院-6月举办夏令营](https://cybersec.xjtu.edu.cn/info/1017/2053.htm)
+
+【报名截止：7.13】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)
 
 【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)
 
