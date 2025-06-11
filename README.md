@@ -77,6 +77,8 @@
 
 【报名截止：N/A】[人工智能与微结构实验室 ](https://mp.weixin.qq.com/s/oGoMc1WJAaLqChqgiLXitA)
 
+【报名截止：7.3】[集成电路学院(信息与电子工程学院)-更改时间](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
 【报名截止：6.29 10：00】[生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.25】[自动化与感知学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
@@ -247,7 +249,7 @@
 
 【报名截止：6.15】[厦门市智能存储与计算重点实验室](https://mp.weixin.qq.com/s/x-HNL4JQXan8lkOwPWYojQ)
 
-【报名截止：6.10 12:00】[经济学科-夏令营之四金融硕士（含人工智能金融方向）](https://chow.xmu.edu.cn/info/1103/36662.htm)
+~~【报名截止：6.10 12:00】[经济学科-夏令营之四金融硕士（含人工智能金融方向）](https://chow.xmu.edu.cn/info/1103/36662.htm)~~
 
 ~~【报名截止：5.28】[化工学院暨能源材料化学协同创新中心](https://chem.xmu.edu.cn/info/1272/117455.htm)~~
 
@@ -258,6 +260,8 @@
 ## 北京师范大学
 
 【报名截止：7.2】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm)
+
+【报名截止：6.29】[地理科学学部-全球变化](https://geo.bnu.edu.cn/tzgg/9bf3ea34e1b34adaae92857ec5e5d857.html)
 
 【报名截止：6.23】[理科学学部](https://geo.bnu.edu.cn/tzgg/eb89cfbb29cc414da5a6aa9a21515d5f.html)
 
@@ -317,6 +321,10 @@
 
 ## 中山大学
 
+【报名截止：6.30】[数学学院](https://math.sysu.edu.cn/article/3709)
+
+【报名截止：6.27】[数学学院（珠海）-更改时间](https://mathzh.sysu.edu.cn/zh-hans/article/2275)
+
 【报名截止：6.23 9：00】[医学院](https://szmed.sysu.edu.cn/zh-hans/article/3377)
 
 【报名截止：6.22】[集成电路学院](https://sic.sysu.edu.cn/rc/rc05/1419220.htm)
@@ -337,8 +345,6 @@
 
 【报名截止：6.15】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419108.htm)
 
-【报名截止：6.15】[数学学院](https://math.sysu.edu.cn/article/3709)
-
 【报名截止：6.15 18:00】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1229)
 
 【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)
@@ -356,6 +362,12 @@
 ## 华中科技大学
 
 【报名截止：6.28】[同济医学院基础医学院](https://mp.weixin.qq.com/s/U4ujcp_8ccGPuyf4DBGVFQ)
+
+【报名截止：6.26】[网络空间安全学院](https://cse.hust.edu.cn/info/1079/4272.htm)
+
+【报名截止：6.23 17：00】[武汉光电国家研究中心](https://mp.weixin.qq.com/s/JUF5S6VvyleP2sFlOkJMyw)
+
+【报名截止：：6.22】[船舶与海洋工程学院](https://ch.hust.edu.cn/info/1039/3871.htm)
 
 【报名截止：6.18 17：00】[数学与统计学院](https://maths.hust.edu.cn/info/1279/11946.htm)
 
@@ -375,7 +387,9 @@
 
 ## 山东大学
 
-【报名截止：6。24】[信息科学与工程学院](https://www.ise.sdu.edu.cn/info/1096/16081.htm)
+【报名截止：N/A】[（威海）空间科学与技术学院夏令营举办7月5日-6日](https://apd.wh.sdu.edu.cn/info/1334/18432.htm)
+
+【报名截止：6.24】[信息科学与工程学院](https://www.ise.sdu.edu.cn/info/1096/16081.htm)
 
 【报名截止：6.23】[软件学院](https://www.sc.sdu.edu.cn/info/1019/5357.htm)
 
@@ -484,6 +498,8 @@
 【报名截止：6.25】[新疆理化所](http://www.xjipc.cas.cn/yjs/tzgg/202505/t20250513_7650725.html)
 
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://www.ion.ac.cn/yjs/tzgg/202503/t20250327_7566333.html)
+
+【报名截止：6.23】[声学研究所东海研究站](https://www.shal.ac.cn/news/tzgg/202506/t20250611_555029.html)
 
 【报名截止：6.23】[软件研究所](https://www.iscas.ac.cn/yjsjy2016/zsxx2016/202505/t20250530_7794448.html)
 
@@ -691,6 +707,10 @@
 
 【报名截止：6.18 17：00】[计算机学院 ](https://cs.ccnu.edu.cn/info/1056/7406.htm)
 
+## 深圳大学
+
+【报名截止：6.30】[教育学部](https://fe.szu.edu.cn/info/1013/2208.htm)
+
 ## 松山湖材料实验室
 
 【报名截止：6.12】[松山湖材料实验室](https://sslab.org.cn/news/noticedetail?id=25052118395620250DD1B64D0)
@@ -729,7 +749,7 @@
 
 ## 鹏城国家实验室
 
-【报名截止：7，6】[鹏城国家实验室](https://mp.weixin.qq.com/s/vp_JknQ_YuPnUlrD8206aw)
+【报名截止：7.6】[鹏城国家实验室](https://mp.weixin.qq.com/s/vp_JknQ_YuPnUlrD8206aw)
 
 ## 上海人工智能实验室
 
