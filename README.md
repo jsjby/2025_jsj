@@ -99,8 +99,6 @@
 
 【报名截止：6.29 10：00】[生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
-【报名截止：6.25】[集成电路学院(信息与电子工程学院)](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
-
 【报名截止：6.25】[南加州大学文化创意产业学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.25】[国家电投智慧能源创新学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
