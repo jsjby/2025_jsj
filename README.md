@@ -49,7 +49,7 @@
 
 【报名截止：6.23】[信息管理系](http://www.im.pku.edu.cn/zsxm/ssxm/390140.htm)
 
-【报名截止：6.22】[基础医学院](https://sbms.bjmu.edu.cn/xgdt/93885eec2a6f4903840ca00c8cd68875.htm)
+~~【报名截止：6.22】[基础医学院](https://sbms.bjmu.edu.cn/xgdt/93885eec2a6f4903840ca00c8cd68875.htm)~~
 
 ~~【报名截止：6.20】[数学科学学院](https://www.math.pku.edu.cn/zygg/168587.htm)~~
 
@@ -107,9 +107,9 @@
 
 【报名截止：6.23 17：00】[董浩云智能制造与服务管理研究院（中美物流研究院）](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
-【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)
+~~【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)~~
 
-【报名截止：6.22 】[第七届医疗机器人国际暑期学校](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMTA5)
+~~【报名截止：6.22 】[第七届医疗机器人国际暑期学校](https://www.gs.sjtu.edu.cn/post/detail/Z3MzMTA5)~~
 
 ~~【报名截止：5.30】[溥渊未来技术学院-脑的真相与未来健康](https://mp.weixin.qq.com/s/BGYPyKPa0lt81EFMXKZL9g)~~
 
@@ -151,13 +151,13 @@
 
 【报名截止：6.23 17：00】[数学科学学院、上海数学中心](https://scms.fudan.edu.cn/info/1047/9251.htm)
 
-【报名截止：6.22 17：00】[智能复杂体系基础理论与关键技术实验室](https://mp.weixin.qq.com/s/7zFGUqdYMLK69m_KKy14Cw)
+~~【报名截止：6.22 17：00】[智能复杂体系基础理论与关键技术实验室](https://mp.weixin.qq.com/s/7zFGUqdYMLK69m_KKy14Cw)~~
 
 ## 南京大学
 
 【报名截止：6.24 15：00】[数学学院](https://math.nju.edu.cn/sy/yxgg/20250614/i322722.html)
 
-【报名截止：6.22 17：00】[海外教育学院](https://hwxy.nju.edu.cn/syxx/gg/20250617/i324153.html)
+~~【报名截止：6.22 17：00】[海外教育学院](https://hwxy.nju.edu.cn/syxx/gg/20250617/i324153.html)~~
 
 ~~【报名截止：6.2】[计算机学院](https://cs.nju.edu.cn/91/cc/c1702a758220/page.htm)~~
 
@@ -183,7 +183,7 @@
 
 【报名截止：6.25】[网络空间安全学院](https://icsr.zju.edu.cn/2025/0530/c70139a3057302/page.htm)
 
-【报名截止：6.22】[软件学院](http://www.cst.zju.edu.cn/2025/0606/c32178a3059270/page.htm)
+~~【报名截止：6.22】[软件学院](http://www.cst.zju.edu.cn/2025/0606/c32178a3059270/page.htm)~~
 
 ~~【报名截止：6.20 12：00】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2025/0524/c63837a3054767/page.htm)~~
 
@@ -365,7 +365,7 @@
 
 【报名截止：6.23】[理科学学部](https://geo.bnu.edu.cn/tzgg/eb89cfbb29cc414da5a6aa9a21515d5f.html)
 
-【报名截止：6.22】[未来技术学院](https://mp.weixin.qq.com/s/43jQc5swHvZWMXoXzeBTyg)
+~~【报名截止：6.22】[未来技术学院](https://mp.weixin.qq.com/s/43jQc5swHvZWMXoXzeBTyg)~~
 
 ~~【报名截止：6.18】[数学科学学院](https://math.bnu.edu.cn/yjshd/f17ddab305424052ae7bbad7b9fbad2d.htm)~~
 
@@ -457,13 +457,13 @@
 
 【报名截止：6.23 9：00】[医学院](https://szmed.sysu.edu.cn/zh-hans/article/3377)
 
-【报名截止：6.22】[集成电路学院](https://sic.sysu.edu.cn/rc/rc05/1419220.htm)
+~~【报名截止：6.22】[集成电路学院](https://sic.sysu.edu.cn/rc/rc05/1419220.htm)~~
 
-【报名截止：6.22】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1231)
+~~【报名截止：6.22】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1231)~~
 
-【报名截止：6.22】[信息管理学院](https://ischool.sysu.edu.cn/zh-hans/article/759)
+~~【报名截止：6.22】[信息管理学院](https://ischool.sysu.edu.cn/zh-hans/article/759)~~
 
-【报名截止：6.22 22：00】[材药学院（深圳）](https://yxysz.sysu.edu.cn/zh-hans/article/1570)
+~~【报名截止：6.22 22：00】[材药学院（深圳）](https://yxysz.sysu.edu.cn/zh-hans/article/1570)~~
 
 ~~【报名截止：6.21】[理学院](https://science.sysu.edu.cn/article/993)~~
 
@@ -515,7 +515,7 @@
 
 【报名截止：6.23 17：00】[武汉光电国家研究中心](https://mp.weixin.qq.com/s/JUF5S6VvyleP2sFlOkJMyw)
 
-【报名截止：6.22】[船舶与海洋工程学院](https://ch.hust.edu.cn/info/1039/3871.htm)
+~~【报名截止：6.22】[船舶与海洋工程学院](https://ch.hust.edu.cn/info/1039/3871.htm)~~
 
 ~~【报名截止：6.18 17：00】[数学与统计学院](https://maths.hust.edu.cn/info/1279/11946.htm)~~
 
@@ -559,7 +559,7 @@
 
 【报名截止：6.23 9:00】[机械工程学院 ](https://msec.scu.edu.cn/info/1091/6417.htm)
 
-【报名截止：6.22 22：00】[电子信息学院 ](https://eie.scu.edu.cn/info/1025/13848.htm)
+~~【报名截止：6.22 22：00】[电子信息学院 ](https://eie.scu.edu.cn/info/1025/13848.htm)~~
 
 ## 吉林大学
 
@@ -619,7 +619,7 @@
 
 【报名截止：6.23】[生命科学学院](https://bio.ucas.ac.cn/index.php/tzgg/76642-2025-2026)
 
-【报名截止：6.22】[沈阳计算所](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=164)
+~~【报名截止：6.22】[沈阳计算所](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=164)~~
 
 ~~【报名截止：6.20】[环境材料与污染控制技术研究中心](https://emct.ucas.ac.cn/index.php/zh/tzgg/382-2026-1)~~
 
@@ -733,9 +733,9 @@
 
 【报名截止：6.23】[软件研究所](https://www.iscas.ac.cn/yjsjy2016/zsxx2016/202505/t20250530_7794448.html)
 
-【报名截止：6.22】[声学研究所](https://www.ioa.cas.cn/yjs/zsxx/zstz/202505/t20250507_7643040.html)
+~~【报名截止：6.22】[声学研究所](https://www.ioa.cas.cn/yjs/zsxx/zstz/202505/t20250507_7643040.html)~~
 
-【报名截止：6.22】[海洋研究所](http://www.qdio.ac.cn/yjs/zsxx/xly/202505/t20250512_833503.html)
+~~【报名截止：6.22】[海洋研究所](http://www.qdio.ac.cn/yjs/zsxx/xly/202505/t20250512_833503.html)~~
 
 ~~【报名截止：6.21】[地理资源所](https://mp.weixin.qq.com/s/u2c5TjApJnDTALXX-45ZSg)~~
 
@@ -813,6 +813,8 @@
 
 【报名截止：7.1 12：00】[计算机科学与技术学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/de2c8a13fbb1409399059a26d571080c.htm)
 
+【报名截止：6.29】[交通运输学院](https://trans.bjtu.edu.cn/cms/item/3192.html)
+
 ## 上海科技大学
 
 【报名截止：7.1】[创业与管理学院](https://mp.weixin.qq.com/s/fRlpPiOhs01ghMC49bOUeA)
@@ -821,9 +823,9 @@
 
 【报名截止：6.30】[数学科学研究所](https://mp.weixin.qq.com/s/mzu3-t-Ug7dbqOt5-_y5FA?poc_token=HCsHImij4zBG9XyJI-bHq-9F0fh6BztiIqJDQBoo)
 
-【报名截止：6.22】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2025/0504/c7339a1110662/page.htm)
+~~【报名截止：6.22】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2025/0504/c7339a1110662/page.htm)~~
 
-【报名截止：6.22】[信息科学与技术学院-电子信息专业学位](https://mp.weixin.qq.com/s/idu5S_HBoL1daw5JxlPubg)
+~~【报名截止：6.22】[信息科学与技术学院-电子信息专业学位](https://mp.weixin.qq.com/s/idu5S_HBoL1daw5JxlPubg)~~
 
 ~~【报名截止：6.12】[生命科学与技术学院](https://slst.shanghaitech.edu.cn/2025/0422/c319a1110360/page.htm)~~
 
@@ -865,7 +867,7 @@
 
 【报名截止：6.26】[物理学院](http://physics.nuaa.edu.cn/2025/0616/c17394a377898/page.htm)
 
-【报名截止：6.22 20：00】[电子信息工程学院](https://ceie.nuaa.edu.cn/2025/0613/c11527a377777/page.htm)
+~~【报名截止：6.22 20：00】[电子信息工程学院](https://ceie.nuaa.edu.cn/2025/0613/c11527a377777/page.htm)~~
 
 ## 西湖大学
 
@@ -884,6 +886,8 @@
 【报名截止：6.25】[信息科学与工程学院](https://cise.ecust.edu.cn/2025/0618/c7692a179923/page.htm)
 
 ## 北京林业大学
+
+【报名截止：6.26】[心理学系](https://mp.weixin.qq.com/s/epTI90Lm8AHbd2QI2ie7Tg)
 
 【报名截止：6.29】[工学院](https://gxy.bjfu.edu.cn/yanjiushengjiaoyu/yanjiushengzhaosheng/6739baef0b8049b3b53df2eda0fe6f92.html)
 
@@ -927,7 +931,9 @@
 
 ## 湖南工商大学
 
-【报名截止：6.22】[前沿交叉学院、管理科学与工程学院、人工智能与先进计算学院](https://gra.hutb.edu.cn/p179/tzgg/20250619/170564.html)
+【报名截止：6.25】[微电子与物理学院](https://gra.hutb.edu.cn/p179/tzgg/20250620/170602.html)
+
+~~【报名截止：6.22】[前沿交叉学院、管理科学与工程学院、人工智能与先进计算学院](https://gra.hutb.edu.cn/p179/tzgg/20250619/170564.html)~~
 
 ~~【报名截止：6.18 17：00】[数字媒体工程与人文学院](https://szcmrw.hutb.edu.cn/p100/yzxx/20250612/170365.html)~~
 
@@ -995,11 +1001,11 @@
 
 【报名截止：6.23】[管理学院-系统科学 学科](https://bs.usst.edu.cn/2025/0609/c10537a342911/page.htm)
 
-【报名截止：6.22】[光电信息与计算机工程学院](https://oece.usst.edu.cn/2025/0610/c9009a343044/page.htm)
+~~【报名截止：6.22】[光电信息与计算机工程学院](https://oece.usst.edu.cn/2025/0610/c9009a343044/page.htm)~~
 
-【报名截止：6.22】[管理学院-人工智能专业硕士](https://bs.usst.edu.cn/2025/0609/c10537a342911/page.htm)
+~~【报名截止：6.22】[管理学院-人工智能专业硕士](https://bs.usst.edu.cn/2025/0609/c10537a342911/page.htm)~~
 
-【报名截止：6.22】[管理学院-系统工程学科](https://bs.usst.edu.cn/2025/0609/c10537a342911/page.htm)
+~~【报名截止：6.22】[管理学院-系统工程学科](https://bs.usst.edu.cn/2025/0609/c10537a342911/page.htm)~~
 
 ## 上海体育大学
 
@@ -1017,7 +1023,7 @@
 
 【报名截止：6.25】[心理学院](https://psych.ccnu.edu.cn/info/1059/9210.htm)
 
-【报名截止：6.22】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/9383.htm)
+~~【报名截止：6.22】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/9383.htm)~~
 
 ~~【报名截止：6.18 17：00】[计算机学院 ](https://cs.ccnu.edu.cn/info/1056/7406.htm)~~
 
@@ -1073,7 +1079,7 @@
 
 【报名截止：6.26】[北京计算科学研究中心](https://mp.weixin.qq.com/s/pW5P07imjsq79R5ezqR0rA)
 
-【报名截止：6.20】[北京应用物理与计算数学研究所](https://mp.weixin.qq.com/s/tPfmKdfVAn8xnhGPzpBW-g)
+~~【报名截止：6.20】[北京应用物理与计算数学研究所](https://mp.weixin.qq.com/s/tPfmKdfVAn8xnhGPzpBW-g)~~
 
 ~~【报名截止：6.20 12：00】[中国工程物理研究院](https://zsxx.gscaep.ac.cn/enrollment/detail/1955)~~
 
@@ -1163,7 +1169,7 @@
 
 【报名截止：6.30】[深圳）理工学院](https://mp.weixin.qq.com/s/LEAOQU1TA8WCxyxE5Idftg)
 
-【报名截止：6.20】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)
+~~【报名截止：6.20】[（深圳）数据科学学院硕士项目](https://sds.cuhk.edu.cn/article/2110)~~
 
 【报名截止：6.25】[理工学院（深圳）](https://mp.weixin.qq.com/s/EWIx0_usoP4pyU2iNexk8Q)
 
