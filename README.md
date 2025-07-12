@@ -434,6 +434,8 @@
 
 ## 厦门大学
 
+【报名截止：N/A】[人工智能研究院-八月底九月初](https://iai.xmu.edu.cn/info/1120/5335.htm)
+
 【报名截止：N/A】[空间感知与计算实验室](https://asc.xmu.edu.cn/m)
 
 ~~【报名截止：7.6 17：00】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11360.htm)~~
