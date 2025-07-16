@@ -344,6 +344,8 @@
 
 【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
 
+【报名截止：9.3】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2881)
+
 【报名截止：8.30】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0704/c17101a373174/page.htm)
 
 【报名截止：8.20】[计算学部](https://computing.hit.edu.cn/2025/0702/c11271a373058/page.htm)
@@ -496,7 +498,7 @@
 
 【报名截止：7.17 23：00】[空天科学与技术学院航空宇航科技](https://sae.bit.edu.cn/tzgggb/a13dad4675664a82b254fdd466944384.htm)
 
-【报名截止：7.14】[前沿交叉科学院](https://sis.bit.edu.cn/tzgg/4af77b67dabb48cd92f115b69f6a1cc3.htm)
+~~【报名截止：7.14】[前沿交叉科学院](https://sis.bit.edu.cn/tzgg/4af77b67dabb48cd92f115b69f6a1cc3.htm)~~
 
 ## 天津大学
 
@@ -912,6 +914,8 @@
 
 ## 大连理工大学
 
+> [大连理工大学招生信息](https://gs.dlut.edu.cn/info/1173/16926.htm)|[大连理工大学预推免招生信息](https://gs.dlut.edu.cn/info/1173/16986.htm)
+
 ~~【报名截止：7.13】[环境学院](http://est.dlut.edu.cn/info/1025/12319.htm)~~
 
 ~~【报名截止：7.13】[生物工程学院](https://biotech.dlut.edu.cn/info/1343/10402.htm)~~
@@ -1162,6 +1166,8 @@
 
 【报名截止：9.25】[网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/14383.htm)
 
+【报名截止：9.24】[人工智能学院](https://sai.xidian.edu.cn/info/1106/12942.htm)
+
 【报名截止：9.10 17：00】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/21494.htm)
 
 ## 北京交通大学
@@ -1255,6 +1261,8 @@
 ~~【报名截止：7.9 16：00】[教育科学与技术学院](https://edu.njupt.edu.cn/2025/0704/c4261a286958/page.htm)~~~
 
 ## 南京理工大学
+
+> [南京理工大学招生信息](https://mp.weixin.qq.com/s/87gTsR0HS4FITJXd3fmHng)|[南京理工大学活动安排](https://gs.njust.edu.cn/zsw/61/84/c4587a352644/page.htm)
 
 【报名截止：7.17】[网络空间安全学院](https://mp.weixin.qq.com/s/qpSP5_z1tOPGYw_vi9uP0g)
 
