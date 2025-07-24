@@ -200,7 +200,7 @@
 
 ## 南京大学
 
-【报名截止：7.22】[匡亚明学院](https://dii.nju.edu.cn/b8/d3/c11317a768211/page.htm)
+~~【报名截止：7.22】[匡亚明学院](https://dii.nju.edu.cn/b8/d3/c11317a768211/page.htm)~~
 
 ~~【报名截止：7.17 17：00】[南赫学院](https://nh.nju.edu.cn/info/1034/7161.htm)~~
 
@@ -596,7 +596,7 @@
 
 【报名截止：7.31 12：00】[仪器科学与工程学院](https://ins.seu.edu.cn/2025/0627/c26759a534538/page.htm)
 
-【报名截止：7.24 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0627/c20024a534565/page.htm)
+~~【报名截止：7.24 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0627/c20024a534565/page.htm)~~
 
  ## 国防科技大学
 
@@ -805,6 +805,8 @@
 ## 华东师范大学
 
 > [华东师范大学招生信息](https://mp.weixin.qq.com/s/3pqoLLU6PzuIedjVncBN0w)
+
+【报名截止：报名时间8月下旬】[数据科学与工程学院-](https://dase.ecnu.edu.cn/da/bc/c41465a711356/page.htm)
 
 ~~【报名截止：7.8】[电子信息类别（人工智能领域）](https://yjsy.ecnu.edu.cn/bc/d4/c42082a703700/page.htm)~~
 
@@ -1034,6 +1036,8 @@
 
 【报名截止：9.18】[上海技术物理研究所](https://sitp.cas.cn/yjs/zsxx/ssszs/202507/t20250704_7880143.html)
 
+【报名截止：8.22】[分子细胞科学卓越创新中心](https://www.sibcb.ac.cn/edu/news1.jsp?ID=1455)
+
 【报名截止：8.10】[西安光机所](https://mp.weixin.qq.com/s/AIHoM7mW6dt3LHh3l6rcLg?click_id=6)
 
 ~~【报名截止：7.17】[空天信息创新研究院](https://aircas.ac.cn/kjrh/rhtzgg/202506/t20250620_7872575.html)~~
@@ -1204,7 +1208,7 @@
 
 【报名截止：N/A】[电子信息工程学院](https://eie.bjtu.edu.cn/cms/item/6161.html)
 
-【报名截止：<span class="deadline" data-deadline="N/A">Loading...</span>】[软件学院研究生招生宣传活动](http://sse.bjtu.edu.cn/cms/item/1081.html)
+【报名截止：N/A】[软件学院研究生招生宣传活动](http://sse.bjtu.edu.cn/cms/item/1081.html)
 
 ~~【报名截止：7.7 12：00】[网络空间安全学院](https://cst.bjtu.edu.cn/rcpy/yjszs2/zszx_yjs/e4d8fe8d46f34c43ad5321cc855a5549.htm)~~
 
@@ -1644,7 +1648,7 @@
 
 ## 河海大学
 
-【报名截止：7.9 9:00】[信息科学与工程学院](https://ise.hhu.edu.cn/2025/0623/c1432a304806/page.htm)
+~~【报名截止：7.9 9:00】[信息科学与工程学院](https://ise.hhu.edu.cn/2025/0623/c1432a304806/page.htm)~~
 
 ~~【报名截止：7.3 9：00】[计算机与软件学院](https://cies.hhu.edu.cn/2025/0620/c4093a304656/page.htm)~~
 
@@ -1671,6 +1675,10 @@
 ## 天津工业大学
 
 ~~【报名截止：7.16】[生命科学学院](https://sky.tiangong.edu.cn/2025/0707/c5121a107016/page.htm)~~
+
+## 武汉体育学院
+
+【报名截止：7.30】[新闻传播学院](https://mp.weixin.qq.com/s/fF8YkF2hG6WrSJV4JqtX4Q)
 
 ## 信息工程大学
 
@@ -1722,7 +1730,7 @@
 
 ## 中国电力科学研究院
 
-【报名截止：7.24】[中国电力科学研究院](https://mp.weixin.qq.com/s/TaZ-NenpWnK12b_bWdW6HA)
+~~【报名截止：7.24】[中国电力科学研究院](https://mp.weixin.qq.com/s/TaZ-NenpWnK12b_bWdW6HA)~~
 
 ## 中国有研科技集团有限公司
 
