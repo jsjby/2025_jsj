@@ -930,6 +930,10 @@
 
 ~~【报名截止：6.15】[前沿交叉科学青岛研究院](https://frontier.qd.sdu.edu.cn/info/1011/8709.htm)~~
 
+## 湖南大学
+
+> [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
+
 ## 兰州大学
 
 ~~【报名截止：6.27】[管理学院](https://ms.lzu.edu.cn/Item/23755.aspx)~~
@@ -1202,6 +1206,10 @@
 
 【报名截止：9.24】[人工智能学院](https://sai.xidian.edu.cn/info/1106/12942.htm)
 
+【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
+
+【报名截止：9.19 12：00】[杭研院-卓越工程师学院长三角基地](https://hz.xidian.edu.cn/info/1009/20144.htm)
+
 【报名截止：9.10 17：00】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/21494.htm)
 
 【报名截止：9.20 00：00】[生命科学技术学院](https://life.xidian.edu.cn/info/1048/16091.htm)
@@ -1224,7 +1232,7 @@
 
 ## 北京科技大学
 
-> [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)
+> [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|[北京科技大学推免招生信息](https://yzxc.ustb.edu.cn/xlytm/hdap/8da9fa228a654def926a2326b86ca899.htm)
  
 ~~【报名截止：7.5】[计算机与通信工程学院](https://mp.weixin.qq.com/s/VMzBqqZTSq8FD_hAcNfwEA)~~
 
@@ -1237,6 +1245,8 @@
 【报名截止：7.27】[信息科学学院暨语言智能研究院](https://mp.weixin.qq.com/s/KPCFUPxUtuGLq9_092snsA)
 
 ## 上海科技大学
+
+【报名截止：9.19 15：00】[生命学院](https://slst.shanghaitech.edu.cn/2025/0724/c319a1113095/page.htm)
 
 ~~【报名截止：7.1】[创业与管理学院](https://mp.weixin.qq.com/s/fRlpPiOhs01ghMC49bOUeA)~~
 
@@ -1251,6 +1261,8 @@
 ~~【报名截止：6.12】[生命科学与技术学院](https://slst.shanghaitech.edu.cn/2025/0422/c319a1110360/page.htm)~~
 
 ## 南方科技大学
+
+【报名截止：8.31】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1111)
 
 【报名截止：8.15 16：00】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/388.html)
 
