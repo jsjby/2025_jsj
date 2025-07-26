@@ -14,6 +14,8 @@
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
 
+【报名截止：7.28 12：00】[全球创新学院](https://mp.weixin.qq.com/s/nw3WIR8ZGpWMEVPs4Em2Tg)
+
 【报名截止：7.28 12：00】[SIGS电子信息（人工智能）](https://mp.weixin.qq.com/s/H_B_AuMBiJDQ0kt3jV-6Zg)
 
 【报名截止：7.28 12：00】[深圳国际研究生院Open FIESTA ](https://mp.weixin.qq.com/s/ntV8OAn8rS_5M3yrecdFjQ)
@@ -486,6 +488,8 @@
 
 ## 北京师范大学
 
+【报名截止：8.10 17：00】[人工智能学院（第二期）](https://ai.bnu.edu.cn/ggjxz/tzgg/d1a1d46bb85f452a982d8b54d6337c77.htm)
+
 ~~【报名截止：7.2】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm)~~
 
 ~~【报名截止：6.29】[地理科学学部-全球变化](https://geo.bnu.edu.cn/tzgg/9bf3ea34e1b34adaae92857ec5e5d857.html)~~
@@ -521,6 +525,8 @@
 【报名截止：N/A】[天津大学智算学部智慧物联实验室导师团](https://mp.weixin.qq.com/s/5XCGVMTGNI3CSHGudu5kMQ)
 
 【报名截止：N/A】[医疗机器人与智能系统研究院](https://imris.tju.edu.cn/info/1012/2022.htm)
+
+【报名截止：9.10】[新媒体与传播学院](https://mp.weixin.qq.com/s/d91fPSfKesl2L2K84W-sgA)
 
 【报名截止：8.20】[福州国际联合学院-导师团](https://fz.tju.edu.cn/info/1029/1944.htm)
 
@@ -713,6 +719,8 @@
 【报名截止：8.16】[计算机学院](https://cse.sysu.edu.cn/article/3279)
 
 【报名截止：8.10】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1241)
+
+【报名截止：8.10 10：00】[软件工程学院](https://sse.sysu.edu.cn/article/938)
 
 ~~【报名截止：7.10】[智能工程学院](https://ise.sysu.edu.cn/article/1522)~~
 
@@ -933,6 +941,10 @@
 ## 湖南大学
 
 > [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
+
+【报名截止：N/A】[信息科学与工程学院-7月25日开始报名](https://csee.hnu.edu.cn/info/1036/13739.htm)
+
+【报名截止：N/A】[人工智能与机器人学院](http://robotics.hnu.edu.cn/info/1035/3109.htm)
 
 ## 兰州大学
 
@@ -1305,6 +1317,8 @@
 ~~【报名截止：6.22 20：00】[电子信息工程学院](https://ceie.nuaa.edu.cn/2025/0613/c11527a377777/page.htm)~~
 
 ## 南京邮电大学
+
+【报名截止：7.30】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2025/0623/c16083a286255/page.htm)
 
 ~~【报名截止：7.19 17：00】[物联网学院](https://ciot.njupt.edu.cn/2025/0712/c10653a287235/page.htm)~~
 
