@@ -646,9 +646,9 @@
 
 【报名截止：7.31】[计算机科学与技术学院-国际暑期学校](https://cse.csu.edu.cn/info/1040/10563.htm)
 
-【报名截止：7.27】[自动化学院](https://soa.csu.edu.cn/info/1032/9007.htm)
+~~【报名截止：7.27】[自动化学院](https://soa.csu.edu.cn/info/1032/9007.htm)~~
 
-【报名截止：7.25】[电子信息学院](https://ei.csu.edu.cn/info/1085/1924.htm)
+~~【报名截止：7.25】[电子信息学院](https://ei.csu.edu.cn/info/1085/1924.htm)~~
 
 ~~【报名截止：7.17】[国家卓越工程师学院](https://ngce.csu.edu.cn/info/1015/1366.htm)~~
 
@@ -657,6 +657,8 @@
 ~~【报名截止：7.10】[物理学院](https://wl.csu.edu.cn/info/1058/6849.htm)~~
 
 ## 武汉大学
+
+【报名截止：N/A】[机器人学院](https://mp.weixin.qq.com/s/47-48A2FNH0cNRLT7dvXvA)
 
 ~~【报名截止：7.7 12：00】[测绘遥感信息工程全国重点实验室](https://liesmars.whu.edu.cn/info/1058/65729.htm)~~
 
@@ -943,6 +945,8 @@
 > [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
 
 【报名截止：N/A】[信息科学与工程学院-7月25日开始报名](https://csee.hnu.edu.cn/info/1036/13739.htm)
+
+【报名截止：N/A】[网络空间安全学院-7月26日开始报名](https://cst.hnu.edu.cn/info/1053/1172.htm)
 
 【报名截止：N/A】[人工智能与机器人学院](http://robotics.hnu.edu.cn/info/1035/3109.htm)
 
@@ -1318,6 +1322,8 @@
 
 ## 南京邮电大学
 
+> [南京邮电大学招生信息](https://yzb.njupt.edu.cn/2025/0725/c7797a287494/page.htm)
+
 【报名截止：7.30】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2025/0623/c16083a286255/page.htm)
 
 ~~【报名截止：7.19 17：00】[物联网学院](https://ciot.njupt.edu.cn/2025/0712/c10653a287235/page.htm)~~
@@ -1412,6 +1418,10 @@
 
 【报名截止：7.30】[航天工程大学](https://mp.weixin.qq.com/s/QutGrQwGT1A1va7FE6zT2Q?search_click_id=16517756066242798855-1752897824273-6362747106)
 
+## 中国人民解放军空军工程大学
+
+【报名截止：7.30 18：00】[空军工程大学](https://mp.weixin.qq.com/s/nh9hrXqMRUTjzifjhexq7g)
+
 ## 中国地质大学
 
 ~~【报名截止：7.3】[（北京）数理学院 ](https://ss.cugb.edu.cn/c/2025-06-17/828661.shtml)~~
@@ -1442,6 +1452,8 @@
 
 ## 中国石油大学
 
+> [中国石油大学(北京）招生信息](https://grs.cup.edu.cn/zssstzgg/91256.jhtml)
+
 ~~【报名截止：7.18】[（北京）石油工程学院](https://www.cup.edu.cn/oil/zsjy/zsxx/a4d8d35d51bc4380a158c6e0116dcb71.htm)~~
 
 ## 中国药科大学
@@ -1455,6 +1467,12 @@
 【报名截止：8.18 17：00】[生物药物学院](https://swywxy.cpu.edu.cn/70/dc/c9879a225500/page.htm)
 
 【报名截止：8.17 15：00】[基础医学与临床药学学院](https://bmcp.cpu.edu.cn/71/25/c469a225573/page.htm)
+
+## 中南财经政法大学
+
+> [中南财经政法大学招生信息](https://yzb.zuel.edu.cn/2025/0626/c4639a397009/page.htm)
+
+【报名截止：8.15 10：00】[信息工程学院](https://xagx.zuel.edu.cn/2025/0726/c3402a403021/page.htm)
 
 ## 广东工业大学
 
