@@ -204,6 +204,8 @@
 
 ## 南京大学
 
+【报名截止：9.8 17：00】[现代生物研究院](https://imb.nju.edu.cn/yjyxw/20250801/i332891.html)
+
 【报名截止：8.10】[计算机学院](https://cs.nju.edu.cn/cb/d4/c1702a773076/page.htm)
 
 ~~【报名截止：7.22】[匡亚明学院](https://dii.nju.edu.cn/b8/d3/c11317a768211/page.htm)~~
@@ -253,6 +255,8 @@
 【报名截止：9.10 12：00】[台州研究院](https://mp.weixin.qq.com/s/5MOfvP8urYMG1FkX6GR-qg)
 
 【报名截止：9.10 12：00】[工程师学院](https://pi.zju.edu.cn/2025/0727/c67820a3071730/page.htm)
+
+【报名截止：9.10 12：00】[工程师学院宁波分院](https://mp.weixin.qq.com/s/aa8Qiy6y7TYqH4Anht4ilQ)
 
 【报名截止：9.9 17：00】[海洋学院](http://oc.zju.edu.cn/2025/0728/c52420a3071991/page.htm)
 
@@ -575,6 +579,8 @@
 【报名截止：9.12】[计算机学院、密码与网络空间安全学院 ](https://cc.nankai.edu.cn/2025/0708/c13297a575022/page.htm)
 
 【报名截止：9.2】[软件学院](https://cs.nankai.edu.cn/info/1076/3424.htm)
+
+【报名截止：8.25】[国家经济战略研究院](https://nkise.nankai.edu.cn/info/1023/1523.htm)
 
 【报名截止：8.19】[统计与数据科学学院](https://stat.nankai.edu.cn/2025/0728/c12324a575763/page.htm)
 
