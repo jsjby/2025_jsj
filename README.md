@@ -628,7 +628,7 @@
 
 【报名截止：8.10 20：00】[统计与数据科学学院](https://stat.seu.edu.cn/2025/0708/c60842a535073/page.htm)
 
-【报名截止：8.2 12：00】[信息科学与工程学院](https://radio.seu.edu.cn/2025/0701/c19195a534740/page.htm)
+~~【报名截止：8.2 12：00】[信息科学与工程学院](https://radio.seu.edu.cn/2025/0701/c19195a534740/page.htm)~~
 
 ~~【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cs.seu.edu.cn/2025/0702/c49475a534815/page.htm)~~
 
@@ -986,6 +986,8 @@
 
 > [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
 
+【报名截止：N/A】[国家卓越工程师学院](https://ngcee.hnu.edu.cn/info/1083/3067.htm)
+
 【报名截止：N/A】[信息科学与工程学院-7月25日开始报名](https://csee.hnu.edu.cn/info/1036/13739.htm)
 
 【报名截止：N/A】[网络空间安全学院-7月26日开始报名](https://cst.hnu.edu.cn/info/1053/1172.htm)
@@ -1299,6 +1301,8 @@
 ## 北京科技大学
 
 > [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|[北京科技大学推免招生信息](https://yzxc.ustb.edu.cn/xlytm/hdap/8da9fa228a654def926a2326b86ca899.htm)
+
+【报名截止：8.31】[自动化学院](https://saee.ustb.edu.cn/tzgg/4614080f756f419da52fb195d99eee2d.htm)
  
 ~~【报名截止：7.5】[计算机与通信工程学院](https://mp.weixin.qq.com/s/VMzBqqZTSq8FD_hAcNfwEA)~~
 
@@ -1308,7 +1312,7 @@
 
 ## 北京语言大学
 
-【报名截止：7.27】[信息科学学院暨语言智能研究院](https://mp.weixin.qq.com/s/KPCFUPxUtuGLq9_092snsA)
+~~【报名截止：7.27】[信息科学学院暨语言智能研究院](https://mp.weixin.qq.com/s/KPCFUPxUtuGLq9_092snsA)~~
 
 ## 上海科技大学
 
