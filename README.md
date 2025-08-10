@@ -126,6 +126,8 @@
 
 【报名截止：9.16】[宁波东方理工大学](https://mp.weixin.qq.com/s/TwQ0AXF7lS2_tFGP_JVqUg)
 
+【报名截止：8.24】[董浩云智能制造与服务管理研究院](http://www.sugli.sjtu.edu.cn/stu_info/3032.html)
+
 ~~【报名截止：7.10 17：00】[溥渊未来技术学院-延迟报名时间](https://mp.weixin.qq.com/s/qQHFrgrcz5znqfFgcamTGw)~~
 
 ~~【报名截止：7.4】[人工智能学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)~~
@@ -390,6 +392,8 @@
 
 【报名截止：9.10】[航天学院-航空宇航科学与技术学科](https://sa.hit.edu.cn/2025/0708/c6582a373313/page.htm)
 
+【报名截止：9.10】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1521)
+
 【报名截止：9.5】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2556.htm)
 
 【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
@@ -401,6 +405,8 @@
 【报名截止：8.29】[（深圳）计算机科学与技术学院](http://cist.hitsz.edu.cn/info/1038/2168.htm)
 
 【报名截止：8.20】[计算学部](https://computing.hit.edu.cn/2025/0702/c11271a373058/page.htm)
+
+【报名截止：8.14】[苏州研究院](https://sri.hit.edu.cn/2025/0808/c17245a376222/page.htm)
 
 ~~【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)~~
 
@@ -493,6 +499,8 @@
 【报名截止：N/A】[空间感知与计算实验室](https://asc.xmu.edu.cn/m)
 
 【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
+
+【报名截止：8.30】[电影学院](https://mp.weixin.qq.com/s/fG0Z5vndOtEDmiXK-DMkJQ?scene=1&click_id=2)
 
 【报名截止：8.15】[航空航天学院](https://aerospace.xmu.edu.cn/info/2723/60464.htm)
 
@@ -587,6 +595,8 @@
 【报名截止：9.7】[卓越工程师学院](https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index?id=27)
 
 【报名截止：9.2】[软件学院](https://cs.nankai.edu.cn/info/1076/3424.htm)
+
+【报名截止：8.29】[经济与社会发展研究院](https://esd.nankai.edu.cn/info/1094/4905.htm)
 
 【报名截止：8.25】[国家经济战略研究院](https://nkise.nankai.edu.cn/info/1023/1523.htm)
 
@@ -1098,6 +1108,8 @@
 
 ## 中国科学院
 
+【报名截止：N/A】[云南天文台](https://ynao.cas.cn/yjsjy/jydt/zs/202507/t20250723_7894728.html)
+
 【报名截止：N/A】[软件研究所基础软件验证研究室](https://versys.ios.ac.cn/blog/studentapply/)
 
 【报名截止：N/A】[空天信息创新研究院网络信息体系技术重点实验室（新二部）](https://mp.weixin.qq.com/s/qcziov9J21WSh6JbrLBuQA)
@@ -1115,6 +1127,8 @@
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202506/t20250626_7875623.html)
 
 【报名截止：9.18】[上海技术物理研究所](https://sitp.cas.cn/yjs/zsxx/ssszs/202507/t20250704_7880143.html)
+
+【报名截止：9.10】[成都计算所](http://www.casit.ac.cn/tongzhi/308.html)
 
 【报名截止：8.22】[分子细胞科学卓越创新中心](https://www.sibcb.ac.cn/edu/news1.jsp?ID=1455)
 
