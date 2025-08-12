@@ -208,11 +208,13 @@
 
 > 【报名截止：9.15】[南京大学招生信息](https://yzb.nju.edu.cn/cb/be/c47863a773054/page.htm)
 
+【报名截止：9.10】[软件学院](https://software.nju.edu.cn/tzgg/20250811/i333050.html)
+
 【报名截止：9.8 17：00】[现代生物研究院](https://imb.nju.edu.cn/yjyxw/20250801/i332891.html)
 
 【报名截止：9.1 17：00】[智能科学与技术学院](https://is.nju.edu.cn/de/94/c57160a777876/page.htm)
 
-【报名截止：8.10】[计算机学院](https://cs.nju.edu.cn/cb/d4/c1702a773076/page.htm)
+~~【报名截止：8.10】[计算机学院](https://cs.nju.edu.cn/cb/d4/c1702a773076/page.htm)~~
 
 ~~【报名截止：7.22】[匡亚明学院](https://dii.nju.edu.cn/b8/d3/c11317a768211/page.htm)~~
 
@@ -536,7 +538,7 @@
 
 ## 北京师范大学
 
-【报名截止：8.10 17：00】[人工智能学院（第二期）](https://ai.bnu.edu.cn/ggjxz/tzgg/d1a1d46bb85f452a982d8b54d6337c77.htm)
+~~【报名截止：8.10 17：00】[人工智能学院（第二期）](https://ai.bnu.edu.cn/ggjxz/tzgg/d1a1d46bb85f452a982d8b54d6337c77.htm)~~
 
 ~~【报名截止：7.2】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm)~~
 
@@ -640,9 +642,9 @@
 
 > [东南大学招生信息](https://yzb.seu.edu.cn/2025/0625/c6676a534395/page.htm)
 
-【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)
+~~【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)~~
 
-【报名截止：8.10 20：00】[统计与数据科学学院](https://stat.seu.edu.cn/2025/0708/c60842a535073/page.htm)
+~~【报名截止：8.10 20：00】[统计与数据科学学院](https://stat.seu.edu.cn/2025/0708/c60842a535073/page.htm)~~
 
 ~~【报名截止：8.2 12：00】[信息科学与工程学院](https://radio.seu.edu.cn/2025/0701/c19195a534740/page.htm)~~
 
@@ -780,9 +782,9 @@
 
 【报名截止：8.16】[计算机学院](https://cse.sysu.edu.cn/article/3279)
 
-【报名截止：8.10】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1241)
+~~【报名截止：8.10】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1241)~~
 
-【报名截止：8.10 10：00】[软件工程学院](https://sse.sysu.edu.cn/article/938)
+~~【报名截止：8.10 10：00】[软件工程学院](https://sse.sysu.edu.cn/article/938)~~
 
 ~~【报名截止：8.8】[智能工程学院](https://ise.sysu.edu.cn/article/1544)~~
 
@@ -1108,6 +1110,8 @@
 
 ## 中国科学院
 
+【报名截止：N/A】[软件所-初审9月上旬](https://is.cas.cn/yjsjy2016/zsxx2016/202508/t20250811_7902397.html)
+
 【报名截止：N/A】[云南天文台](https://ynao.cas.cn/yjsjy/jydt/zs/202507/t20250723_7894728.html)
 
 【报名截止：N/A】[软件研究所基础软件验证研究室](https://versys.ios.ac.cn/blog/studentapply/)
@@ -1134,9 +1138,9 @@
 
 【报名截止：8.18】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html)
 
-【报名截止：8.12 17：00】[沈阳自动化研究所](https://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202507/t20250728_7897411.html)
+~~【报名截止：8.12 17：00】[沈阳自动化研究所](https://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202507/t20250728_7897411.html)~~
 
-【报名截止：8.10】[西安光机所](https://mp.weixin.qq.com/s/AIHoM7mW6dt3LHh3l6rcLg?click_id=6)
+~~【报名截止：8.10】[西安光机所](https://mp.weixin.qq.com/s/AIHoM7mW6dt3LHh3l6rcLg?click_id=6)~~
 
 ~~【报名截止：7.17】[空天信息创新研究院](https://aircas.ac.cn/kjrh/rhtzgg/202506/t20250620_7872575.html)~~
 
@@ -1296,7 +1300,7 @@
 
 【报名截止：9.24】[人工智能学院](https://sai.xidian.edu.cn/info/1106/12942.htm)
 
-【报名截止：9.19】[空间科学与技术学院](https://see.xidian.edu.cn/html/news/12493.html)
+【报名截止：9.19】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/13647.htm)
 
 【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
 
@@ -1326,7 +1330,9 @@
 
 > [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|[北京科技大学推免招生信息](https://yzxc.ustb.edu.cn/xlytm/hdap/8da9fa228a654def926a2326b86ca899.htm)
 
-【报名截止：8.31】[自动化学院](https://saee.ustb.edu.cn/tzgg/4614080f756f419da52fb195d99eee2d.htm
+【报名截止：8.31】[自动化学院](https://saee.ustb.edu.cn/tzgg/4614080f756f419da52fb195d99eee2d.htm)
+
+【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2025-08-11/2224.html)
 
 【报名截止：8.28 17：00】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/79048df311dc467699ed5a356529d0a8.htm)
 
@@ -1444,6 +1450,8 @@
 
 【报名截止：9.8 12：00】[深圳医学科学院](https://www.szbl.ac.cn/info/2010/9372.htm)
 
+【报名截止：9.1 10:00】[工学院](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202508/t20250808_57305.shtml)
+
 ~~【报名截止：6.26 10：00】[工学院](https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml)~~
 
 ~~【报名截止：6.26 10：00】[感知与计算成像实验室](https://mp.weixin.qq.com/s/eG8kowjizaavkrB1cv_OSw)~~
@@ -1544,7 +1552,7 @@
 
 【报名截止：8.19】[国家安全研究院](https://mp.weixin.qq.com/s/mdE-X1-tqECixFb8L0LAiw)
 
-【报名截止：8.10】[理学院](https://mp.weixin.qq.com/s/L2aWIRI2zVq308Fu5n0J1w)
+~~【报名截止：8.10】[理学院](https://mp.weixin.qq.com/s/L2aWIRI2zVq308Fu5n0J1w)~~
 
 ## 中央政法大学
 
