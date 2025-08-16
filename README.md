@@ -212,9 +212,13 @@
 
 【报名截止：9.10】[软件学院](https://software.nju.edu.cn/tzgg/20250811/i333050.html)
 
+【报名截止：9.10】[智能软件与工程学院](https://ise.nju.edu.cn/info/1018/2671.htm)
+
 【报名截止：9.8 17：00】[现代生物研究院](https://imb.nju.edu.cn/yjyxw/20250801/i332891.html)
 
 【报名截止：9.1 17：00】[智能科学与技术学院](https://is.nju.edu.cn/de/94/c57160a777876/page.htm)
+
+【报名截止：8.31 17：00】[人工智能学院](https://ai.nju.edu.cn/f6/b8/c53055a784056/page.htm)
 
 ~~【报名截止：8.10】[计算机学院](https://cs.nju.edu.cn/cb/d4/c1702a773076/page.htm)~~
 
@@ -410,7 +414,7 @@
 
 【报名截止：8.20】[计算学部](https://computing.hit.edu.cn/2025/0702/c11271a373058/page.htm)
 
-【报名截止：8.14】[苏州研究院](https://sri.hit.edu.cn/2025/0808/c17245a376222/page.htm)
+~~【报名截止：8.14】[苏州研究院](https://sri.hit.edu.cn/2025/0808/c17245a376222/page.htm)~~
 
 ~~【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)~~
 
@@ -502,11 +506,13 @@
 
 【报名截止：N/A】[空间感知与计算实验室](https://asc.xmu.edu.cn/m)
 
+【报名截止：9.7】[信息学院（特色化示范性软件学院）](https://informatics.xmu.edu.cn/info/1050/47240.htm)
+
 【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
 
 【报名截止：8.30】[电影学院](https://mp.weixin.qq.com/s/fG0Z5vndOtEDmiXK-DMkJQ?scene=1&click_id=2)
 
-【报名截止：8.15】[航空航天学院](https://aerospace.xmu.edu.cn/info/2723/60464.htm)
+~~【报名截止：8.15】[航空航天学院](https://aerospace.xmu.edu.cn/info/2723/60464.htm)~~
 
 ~~【报名截止：7.6 17：00】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11360.htm)~~
 
@@ -784,7 +790,7 @@
 
 【报名截止：8.24】[电子与信息工程学院（微电子学院）](https://seit.sysu.edu.cn/article/2901)
 
-【报名截止：8.16】[计算机学院](https://cse.sysu.edu.cn/article/3279)
+~~【报名截止：8.16】[计算机学院](https://cse.sysu.edu.cn/article/3279)~~
 
 ~~【报名截止：8.10】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1241)~~
 
@@ -958,7 +964,7 @@
 
 > 【报名截止：9.30 18：00】[重庆大学招生信息](https://yz.cqu.edu.cn/news/2025-07/2357.html)
 
-【报名截止：8.15】[生物工程学院](https://bio.cqu.edu.cn/info/1305/6424.htm)
+~~【报名截止：8.15】[生物工程学院](https://bio.cqu.edu.cn/info/1305/6424.htm)~~
 
 ~~【报名截止：7.10】[土木工程学院](https://civil.cqu.edu.cn/info/1493/17586.htm)~~
 
@@ -1052,11 +1058,11 @@
 
 >【报名截止：8.10 18:00】 [中国农业大学招生信息](https://yz.cau.edu.cn/art/2025/7/7/art_41740_1074970.html)
 
-【报名截止：8.10 18:00】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2025/7/8/art_50390_1075048.html)
+~~【报名截止：8.10 18:00】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2025/7/8/art_50390_1075048.html)~~
 
-【报名截止：8.10 17:00】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2025/7/29/art_50390_1077424.html)
+~~【报名截止：8.10 17:00】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2025/7/29/art_50390_1077424.html)~~
 
-【报名截止：8.10 17:00】[土地科学与技术学院](https://clst.cau.edu.cn/art/2025/7/8/art_31131_1075061.html)
+~~【报名截止：8.10 17:00】[土地科学与技术学院](https://clst.cau.edu.cn/art/2025/7/8/art_31131_1075061.html)~~
 
 ## 中国科学院大学
 
@@ -1115,6 +1121,8 @@
 ~~【报名截止：5.30】[前沿交叉科学学院](https://mp.weixin.qq.com/s/xRw7sCbjFlflqUa7Z4r4Ug)~~
 
 ## 中国科学院
+
+【报名截止：N/A】[国家天文台](https://nao.cas.cn/jypy/jy/202508/t20250815_7905066.html)
 
 【报名截止：N/A】[软件所-初审9月上旬](https://is.cas.cn/yjsjy2016/zsxx2016/202508/t20250811_7902397.html)
 
@@ -1392,7 +1400,7 @@
 
 【报名截止：8.20 17：30】[自动化与智能制造学院](https://sdim.sustech.edu.cn/index/show?id=490)
 
-【报名截止：8.15 16：00】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/388.html)
+~~【报名截止：8.15 16：00】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/388.html)~~
 
 ~~【报名截止：6.18】[生物医学工程系](https://mp.weixin.qq.com/s/ZENQ4XITj3XDnmb5Y4FiDA)~~
 
@@ -1602,7 +1610,7 @@
 
 > [中南财经政法大学招生信息](https://yzb.zuel.edu.cn/2025/0626/c4639a397009/page.htm)
 
-【报名截止：8.15 10：00】[信息工程学院](https://xagx.zuel.edu.cn/2025/0726/c3402a403021/page.htm)
+~~【报名截止：8.15 10：00】[信息工程学院](https://xagx.zuel.edu.cn/2025/0726/c3402a403021/page.htm)~~
 
 ## 广东工业大学
 
@@ -1622,7 +1630,7 @@
 
 【报名截止：9.3】[计算机科学和技术学院（软件学院）-第二批](https://scst.suda.edu.cn/33/30/c29557a668464/page.htm)
 
-【报名截止：8.13】[计算机科学和技术学院（软件学院）-第一批](https://scst.suda.edu.cn/33/30/c29557a668464/page.htm)
+~~【报名截止：8.13】[计算机科学和技术学院（软件学院）-第一批](https://scst.suda.edu.cn/33/30/c29557a668464/page.htm)~~
 
 ## 东北师范大学
 
@@ -1774,7 +1782,7 @@
 
 ## 南京工业大学
 
-【报名截止：8.15】[交通运输工程学院](https://mp.weixin.qq.com/s/qMDKbEE0toV-L59RoqGufg)
+~~【报名截止：8.15】[交通运输工程学院](https://mp.weixin.qq.com/s/qMDKbEE0toV-L59RoqGufg)~~
 
 ## 华中农业大学
 
