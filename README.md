@@ -506,6 +506,8 @@
 
 【报名截止：N/A】[空间感知与计算实验室](https://asc.xmu.edu.cn/m)
 
+【报名截止：9.7】[人工智能研究院](https://iai.xmu.edu.cn/info/1120/5355.htm)
+
 【报名截止：9.7】[信息学院（特色化示范性软件学院）](https://informatics.xmu.edu.cn/info/1050/47240.htm)
 
 【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
@@ -611,6 +613,8 @@
 【报名截止：8.29】[经济与社会发展研究院](https://esd.nankai.edu.cn/info/1094/4905.htm)
 
 【报名截止：8.25】[国家经济战略研究院](https://nkise.nankai.edu.cn/info/1023/1523.htm)
+
+【报名截止：8.25 17：00】[商学院](https://bs.nankai.edu.cn/2025/0816/c9477a576217/page.htm)
 
 【报名截止：8.19】[统计与数据科学学院](https://stat.nankai.edu.cn/2025/0728/c12324a575763/page.htm)
 
@@ -1388,6 +1392,8 @@
 
 【报名截止：N/A】[国优计划](https://mp.weixin.qq.com/s/DF1O5nQlJ4sfpsYWe7ppdQ)
 
+【报名截止：9.1 9：00】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=690)
+
 【报名截止：8.31】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1111)
 
 【报名截止：8.31】[生物医学工程系](https://bme.sustech.edu.cn/education/information/)
@@ -1544,6 +1550,8 @@
 
 ## 中国人民解放军火箭军工程大学
 
+【报名截止：8.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/XCqa11_TkmKwwYnrmSJqAw?scene=1&click_id=9)
+
 ~~【报名截止：7.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA)~~
 
 ## 中国人民解放军航天工程大学
@@ -1604,7 +1612,7 @@
 
 【报名截止：8.18 17：00】[生物药物学院](https://swywxy.cpu.edu.cn/70/dc/c9879a225500/page.htm)
 
-【报名截止：8.17 15：00】[基础医学与临床药学学院](https://bmcp.cpu.edu.cn/71/25/c469a225573/page.htm)
+~~【报名截止：8.17 15：00】[基础医学与临床药学学院](https://bmcp.cpu.edu.cn/71/25/c469a225573/page.htm)~~
 
 ## 中南财经政法大学
 
@@ -1921,6 +1929,8 @@
 ~~【报名截止：6.27】[核物理研究所](https://mp.weixin.qq.com/s/bVqz3m8n3XCC47iHZJW-XA)~~
 
 ## 中国航天科工集团
+
+【报名截止：8.22 17：00】[第二研究院](https://mp.weixin.qq.com/s/nPc7yDNdKgtURRp32JsciA)
 
 ~~【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)~~
 
