@@ -172,6 +172,8 @@
 
 【报名截止：9.10 16：00】[未来信息创新学院](http://www.it.fudan.edu.cn/Data/View/4900)
 
+【报名截止：9.10 16：00】[智能医学研究院](https://imi.fudan.edu.cn/info/1018/2713.htm)
+
 ~~【报名截止：7.31】[数字医学研究中心](https://miccai.fudan.edu.cn/44/f8/c34229a738552/page.htm)~~
 
 ~~【报名截止：7.20 17：00】[空间互联网研究院](https://mp.weixin.qq.com/s/r5xi0vsceb8L6l2V5wth0Q)~~
@@ -802,6 +804,10 @@
 
 ## 中山大学
 
+【报名截止：9.9】[系统科学与工程学院](https://ssse.sysu.edu.cn/article/1375)
+
+【报名截止：9.9 17：00】[人工智能学院](https://sai.sysu.edu.cn/article/608)
+
 【报名截止：8.31】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419513.htm)
 
 【报名截止：8.24】[电子与信息工程学院（微电子学院）](https://seit.sysu.edu.cn/article/2901)
@@ -944,6 +950,8 @@
 
 > [四川大学推免招生信息](https://yz.scu.edu.cn/zsxx/Details/14ae5448-c2fc-4da6-9dd7-a525716a28d1)
 
+【报名截止：9.10】[空天科学与工程学院](https://saa.scu.edu.cn/info.htm?id=661743141583646&c=781494316834704)
+
 ~~【报名截止：6.29】[华西医院临床流行病学与循证医学中心](https://mp.weixin.qq.com/s/vNE2IH12Bpj3ojOi4o37Kw)~~
 
 ~~【报名截止：6.29】[网络空间安全学院](https://ccs.scu.edu.cn/info/1026/4162.htm)~~
@@ -992,7 +1000,7 @@
 
 ## 东北大学
 
-> [东北大学秦皇岛分校招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)
+> [东北大学秦皇岛分校招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)|[东北大学推免招生信息](http://yz.neu.edu.cn/2025/0827/c5932a290512/pagem.htm)
 
 【报名截止：N/A】[计算机软件国家工程中心智能医疗团队](https://mp.weixin.qq.com/s/JljQs830ipcv26vNrOPs7w?scene=1&click_id=6)
 
@@ -1170,17 +1178,23 @@
 
 【报名截止：N/A】[软件所中文信息处理实验室](https://mp.weixin.qq.com/s/Ly5wTU-VpHvzjKOywgJ2AA)
 
+【报名截止：10.8】[新疆理化技术研究所](https://xjipc.cas.cn/yjs/zs/sszs/202508/t20250825_7911759.html)
+
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202506/t20250626_7875623.html)
 
 【报名截止：9.26】[上海应用物理研究所](https://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202508/t20250818_7906179.html)
 
 【报名截止：9.25】[上海微系统与信息技术研究所](http://www.sim.cas.cn/yjs/zsxx/yjs_sszs/202508/t20250820_7907445.html)
 
+【报名截止：9.21】[西安光学精密机械研究所](https://yjsb.ioe.ac.cn/zs/sszs/info/2025/51480.html)
+
 【报名截止：9.20】[小卫星创新研究院](https://www.microsate.com/yajsjy/sszsxx/202508/t20250820_7907973.html)
 
 【报名截止：9.18】[上海技术物理研究所](https://sitp.cas.cn/yjs/zsxx/ssszs/202507/t20250704_7880143.html)
 
 【报名截止：9.15 12：00】[深圳先进技术研究院](https://mp.weixin.qq.com/s/ocy_-FHezuu-CVDB6Zpb1g)
+
+【报名截止：9.12 17:00】[遗传发育所](https://genetics.cas.cn/edu/zsxx/xlytms/202508/t20250828_7919609.html)
 
 【报名截止：9.10】[成都计算所](http://www.casit.ac.cn/tongzhi/308.html)
 
@@ -1357,6 +1371,8 @@
 【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
 
 【报名截止：9.19 12：00】[杭研院-卓越工程师学院长三角基地](https://hz.xidian.edu.cn/info/1009/20144.htm)
+
+【报名截止：9.18 17：00】[人工智能学院-更改报名时间](https://sai.xidian.edu.cn/info/1106/12942.htm)
 
 【报名截止：9.10 17：00】[计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/21494.htm)
 
@@ -1612,6 +1628,8 @@
 
 ## 中国地质大学
 
+> [中国地质大学招生信息](https://yz.cug.edu.cn/page/detail/PVKZRL/697/63577)
+
 ~~【报名截止：7.3】[（北京）数理学院 ](https://ss.cugb.edu.cn/c/2025-06-17/828661.shtml)~~
 
 ~~【报名截止：6.20】[（武汉）教育研究院心理学系](https://mp.weixin.qq.com/s/TDsy5yYxSIsgDNd4_K_Okw)~~
@@ -1680,6 +1698,10 @@
 
 ~~【报名截止：6.13】[信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8485.htm)~~
 
+## 广东药科大学
+
+【报名截止：N/A】[代谢病中西医结合研究中心](https://mp.weixin.qq.com/s/8Axir9grZa1qJdcvj6zTLA?click_id=2)
+
 ## 合肥工业大学
 
 > [合肥工业大学招生信息](https://yjszs.hfut.edu.cn/2025/0702/c13524a313509/pagem.htm)
@@ -1687,6 +1709,8 @@
 ~~【报名截止：7.25】[计算机与信息学院](https://ci.hfut.edu.cn/info/1063/15784.htm)~~
 
 ## 苏州大学
+
+【报名截止：N/A】[未来科学与工程学院](https://future.suda.edu.cn/46/53/c30836a673363/page.htm)
 
 【报名截止：9.3】[计算机科学和技术学院（软件学院）-第二批](https://scst.suda.edu.cn/33/30/c29557a668464/page.htm)
 
@@ -1866,6 +1890,8 @@
 
 ## 华中师范大学
 
+> 【报名截止：9.14】[华中师范大学招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)
+
 ~~【报名截止：6.25】[心理学院](https://psych.ccnu.edu.cn/info/1059/9210.htm)~~
 
 ~~【报名截止：6.22】[人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/9383.htm)~~
@@ -1907,6 +1933,8 @@
 【报名截止：9.22】[杭州电子科技大学](https://grs.hdu.edu.cn/2024/0913/c13785a270374/page.htm)
 
 ## 暨南大学
+
+> 【报名截止：9.14】[暨南大学招生信息-更改报名时间](https://yz.jnu.edu.cn/2025/0721/c33059a840936/page.htm)
 
 ~~【报名截止：7.25】[网络空间安全学院](https://cybsec.jnu.edu.cn/2025/0714/c39579a840444/page.htm)~~
 
