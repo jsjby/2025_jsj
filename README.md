@@ -446,9 +446,9 @@
 
 【报名截止：9.10】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1521)
 
-【报名截止：9.5】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2556.htm)
+~~【报名截止：9.5】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2556.htm)~~
 
-【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
+~~【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)~~
 
 ~~【报名截止：9.3】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2881)~~
 
@@ -558,7 +558,7 @@
 
 【报名截止：9.7】[信息学院（特色化示范性软件学院）](https://informatics.xmu.edu.cn/info/1050/47240.htm)
 
-【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
+~~【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)~~
 
 ~~【报名截止：8.30】[电影学院](https://mp.weixin.qq.com/s/fG0Z5vndOtEDmiXK-DMkJQ?scene=1&click_id=2)~~
 
@@ -672,15 +672,15 @@
 
 【报名截止：9.7】[卓越工程师学院](https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index?id=27)
 
-【报名截止：9.2】[软件学院](https://cs.nankai.edu.cn/info/1076/3424.htm)
+~~【报名截止：9.2】[软件学院](https://cs.nankai.edu.cn/info/1076/3424.htm)~~
 
-【报名截止：8.30 12：00】[人工智能学院](https://ai.nankai.edu.cn/info/1024/6309.htm)
+~~【报名截止：8.30 12：00】[人工智能学院](https://ai.nankai.edu.cn/info/1024/6309.htm)~~
 
-【报名截止：8.29】[经济与社会发展研究院](https://esd.nankai.edu.cn/info/1094/4905.htm)
+~~【报名截止：8.29】[经济与社会发展研究院](https://esd.nankai.edu.cn/info/1094/4905.htm)~~
 
-【报名截止：8.25】[国家经济战略研究院](https://nkise.nankai.edu.cn/info/1023/1523.htm)
+~~【报名截止：8.25】[国家经济战略研究院](https://nkise.nankai.edu.cn/info/1023/1523.htm)~~
 
-【报名截止：8.25 17：00】[商学院](https://bs.nankai.edu.cn/2025/0816/c9477a576217/page.htm)
+~~【报名截止：8.25 17：00】[商学院](https://bs.nankai.edu.cn/2025/0816/c9477a576217/page.htm)~~
 
 ~~【报名截止：8.19】[统计与数据科学学院](https://stat.nankai.edu.cn/2025/0728/c12324a575763/page.htm)~~
 
@@ -740,7 +740,7 @@
 
 【报名截止：9.8 12：00】[雷恩研究生学院计算机技术专业](https://cse.seu.edu.cn/2025/0901/c49343a537970/page.htm)
 
-【报名截止：9.4 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0830/c19887a537788/page.htm)
+~~【报名截止：9.4 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0830/c19887a537788/page.htm)~~
 
 ~~【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)~~
 
@@ -808,7 +808,7 @@
 
 【报名截止：9.8】[电子信息学院-第二批](https://ei.csu.edu.cn/info/1085/1939.htm)
 
-【报名截止：9.6】[计算机学院](https://cse.csu.edu.cn/info/1040/10626.htm)
+~~【报名截止：9.6】[计算机学院](https://cse.csu.edu.cn/info/1040/10626.htm)~~
 
 ~~【报名截止：9.3 17：00】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3484.htm)~~
 
@@ -964,9 +964,9 @@
 
 【报名截止：9.9】[数学科学学院](https://www.math.uestc.edu.cn/info/1029/9325.htm)
 
-【报名截止：8.31】[资源与环境学院](https://www.sre.uestc.edu.cn/info/1063/10023.htm)
+~~【报名截止：8.31】[资源与环境学院](https://www.sre.uestc.edu.cn/info/1063/10023.htm)~~
 
-【报名截止：8.31】[航空航天学院](https://www.iaa.uestc.edu.cn/info/1143/6375.htm)
+~~【报名截止：8.31】[航空航天学院](https://www.iaa.uestc.edu.cn/info/1143/6375.htm)~~
 
 ~~【报名截止：7.8】[（深圳）高等研究院](https://sias.uestc.edu.cn/info/1235/5741.htm)~~
 
@@ -1358,7 +1358,7 @@
 
 【报名截止：9.8】[数学与系统科学研究院](https://amss.cas.cn/admission/sszs/tzgg/202508/t20250829_7945327.html)
 
-【报名截止：9.4 12：00】[计算所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202508/t20250829_7946055.html)
+~~【报名截止：9.4 12：00】[计算所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202508/t20250829_7946055.html)~~
 
 ~~【报名截止：8.29 16：00】[心理研究所](http://www.psych.cas.cn/edu/zsxx/sszs/202508/t20250822_7909147.html)~~
 
@@ -1712,7 +1712,7 @@
 
 【报名截止：9.8 10：00】[交叉科学中心](https://science.westlake.edu.cn/newsevents/news/202508/t20250811_57380.shtml)
 
-【报名截止：9.1 10:00】[工学院](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202508/t20250808_57305.shtml)
+~~【报名截止：9.1 10:00】[工学院](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202508/t20250808_57305.shtml)~~
 
 ~~【报名截止：6.26 10：00】[工学院](https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml)~~
 
