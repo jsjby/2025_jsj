@@ -1050,6 +1050,8 @@
 
 >【报名截止：10.20】[中山大学推免信息](https://graduate.sysu.edu.cn/zsw/article/492)
 
+【报名截止：9.18】[网络空间安全学院-（直博第二批）](https://scst.sysu.edu.cn/news/news02/1419862.htm)
+
 ~~【报名截止：9.9】[系统科学与工程学院](https://ssse.sysu.edu.cn/article/1375)~~
 
 ~~【报名截止：9.9 17：00】[人工智能学院](https://sai.sysu.edu.cn/article/608)~~
@@ -1581,6 +1583,8 @@
 【报名截止：9.18】[上海技术物理研究所](https://sitp.cas.cn/yjs/zsxx/ssszs/202507/t20250704_7880143.html)
 
 【报名截止：9.18】[上海营养与健康研究所](https://sedu.sinh.ac.cn/news.php?id=502)
+
+【报名截止：9.18 13：00】[分子细胞科学卓越创新中心](https://www.sibcb.ac.cn/edu/news1.jsp?ID=1468)
 
 ~~【报名截止：9.15】[南京天文仪器研制中心](http://www.nairc.ac.cn/yjsjy/zszy/202509/t20250908_756635.html)~~
 
@@ -2166,6 +2170,8 @@
 
 > [中国地质大学招生信息](https://yz.cug.edu.cn/page/detail/PVKZRL/697/63577)| [中国地质大学(北京) 推免招生信息](https://bm.cugb.edu.cn/yjsyzsb/c/2025-09-05/831466.shtml)
 
+【报名截止：9.19 12：00】[(武汉)自动化学院](https://au.cug.edu.cn/info/1028/12084.htm)
+
 【报名截止：9.15 14：00】[（北京）人工智能学院](https://bm.cugb.edu.cn/yjsyzsb/c/2025-09-09/831681.shtml)
 
 ~~【报名截止：7.3】[（北京）数理学院 ](https://ss.cugb.edu.cn/c/2025-06-17/828661.shtml)~~
@@ -2382,6 +2388,10 @@
 
 >【报名截止：9.18】[西北大学推免信息](https://yjs.nwu.edu.cn/info/1104/5172.htm)
 
+## 西南民族大学
+
+【报名截止：N/A】[计算机与人工智能学院](https://jkxy.swun.edu.cn/info/1095/4501.htm)
+
 ## 贵州财经大学
 
 ~~【报名截止：6.13】[信息学院](https://xxxy.gufe.edu.cn/info/1049/4159.htm)~~
@@ -2498,6 +2508,8 @@
 
 >[武汉理工大学推免信息](http://gd.whut.edu.cn/zs/tzgg/202509/t20250914_618288.shtml)
 
+【报名截止：9.21】[机电工程学院](http://smee.whut.edu.cn/tzgg/yggg/202509/t20250916_1349192.shtml)
+
 【报名截止：9.17 17：00】[计算机与人工智能学院](http://cst.whut.edu.cn/yjsjy/zsxx/202509/t20250915_1349104.shtml)
 
 【报名截止：9.17 12：00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/8z1JhqTeqJGcYUtUfQpeMw)
@@ -2507,6 +2519,16 @@
 >[福州大学推免信息](https://yjsy.fzu.edu.cn/info/1071/5798.htm)
 
 【报名截止：<span class="deadline" data-deadline="N/A">Loading...</span>】[计算机与大数据学院软件学院](https://ccds.fzu.edu.cn/info/1138/11337.htm)
+
+## 四川农业大学
+
+【报名截止：N/A】[机电学院](https://jdxy.sicau.edu.cn/info/1033/3842.htm)
+
+## 浙江师范大学
+
+>【报名截止：N/A】[浙江师范大学推免信息](https://yzw.zjnu.edu.cn/2025/0911/c4966a526610/page.htm)
+
+【报名截止：N/A】[计算机科学与技术学院](https://cs.zjnu.edu.cn/2025/0915/c16776a527181/page.htm)
 
 ## 大连海事大学
 
@@ -2813,6 +2835,20 @@
 ## 石河子大学
 
 【报名截止：N/A】[机械电气工程学院](https://jdxy.shzu.edu.cn/2025/0905/c9813a223275/page.htm)
+
+## 沈阳航空航天大学
+
+>【报名截止：N/A】[沈阳航空航天大学推免信息](https://yjs.sau.edu.cn/info/1021/1724.htm)
+
+【报名截止：N/A】[人工智能学院](https://yjs.sau.edu.cn/info/1021/1740.htm)
+
+【报名截止：N/A】[低空经济学院](https://yjs.sau.edu.cn/info/1021/1738.htm)
+
+【报名截止：N/A】[航空发动机学院](https://yjs.sau.edu.cn/info/1021/1729.htm)
+
+【报名截止：N/A】[航空宇航学院](https://yjs.sau.edu.cn/info/1021/1728.htm)
+
+【报名截止：N/A】[计算机学院](https://yjs.sau.edu.cn/info/1021/1725.htm)
 
 ## 华北计算机系统工程研究所
 
