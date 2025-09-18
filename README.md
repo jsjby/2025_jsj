@@ -194,6 +194,8 @@
 
 ## 复旦大学
 
+>[复旦大学推免信息](https://gsao.fudan.edu.cn/68/02/c15015a747522/page.htm)
+
 【报名截止：N/A】[计算机科学技术学院协同信息与系统实验室](https://mp.weixin.qq.com/s/JSBAfIP1J4ngwfDfFpoiYA)
 
 【报名截止：N/A】[复杂体系多尺度研究院/宣讲会](https://mp.weixin.qq.com/s/bgsP4Kyjj2gT5O5QaU50xQ)
@@ -1052,6 +1054,8 @@
 
 【报名截止：9.18】[网络空间安全学院-（直博第二批）](https://scst.sysu.edu.cn/news/news02/1419862.htm)
 
+【报名截止：9.17】[智能工程学院-工程硕博士专项](https://ise.sysu.edu.cn/article/1564)
+
 ~~【报名截止：9.9】[系统科学与工程学院](https://ssse.sysu.edu.cn/article/1375)~~
 
 ~~【报名截止：9.9 17：00】[人工智能学院](https://sai.sysu.edu.cn/article/608)~~
@@ -1537,6 +1541,8 @@
 ~~【报名截止：5.30】[前沿交叉科学学院](https://mp.weixin.qq.com/s/xRw7sCbjFlflqUa7Z4r4Ug)~~
 
 ## 中国科学院
+
+【报名截止：N/A】[计算机网络信息中心-推免(少量名额)](https://cnic.cas.cn/yjsjy/zsxx/202509/t20250916_7969127.html)
 
 【报名截止：N/A】[信息工程研究所-推免](https://www.iie.ac.cn/xsjy2020/zxtz2020/202509/t20250911_7965947.html)
 
@@ -2068,6 +2074,8 @@
 
 >[华南师范大学推免信息](https://yz.scnu.edu.cn/a/20250911/652.html)
 
+【报名截止：9.18 14：00】[人工智能学院](http://ai.scnu.edu.cn/a/20250916/445.html)
+
 ## 华南农业大学
 
 > [华南农业大学招生信息](https://yzb.scau.edu.cn/2025/0618/c2140a411894/page.htm)|[华南农业大学招生信息](https://yzb.scau.edu.cn/2025/0912/c2136a416682/page.htm)
@@ -2554,6 +2562,8 @@
 
 ## 南京工业大学
 
+【报名截止：N/A】[计算机与信息工程学院（](https://gra.njtech.edu.cn/zsw/info/1021/1582.htm)
+
 ~~【报名截止：8.15】[交通运输工程学院](https://mp.weixin.qq.com/s/qMDKbEE0toV-L59RoqGufg)~~
 
 ## 南京林业大学
@@ -2751,6 +2761,12 @@
 >【报名截止：9.15】[湘潭大学推免招生信息](https://yjsc.xtu.edu.cn/info/1028/4936.htm)
 
 ~~【报名截止：9.15】[自动化与电子信息学院](https://aei.xtu.edu.cn/info/1078/4819.htm)~~
+
+## 杭州师范大学
+
+【报名截止：N/A】[工学院](https://eng.hznu.edu.cn/c/2025-09-17/3108583.shtml)
+
+【报名截止：N/A】[信息科学与技术学院](https://hise.hznu.edu.cn/c/2025-09-15/3107120.shtml)
 
 ## 成都信息工程大学
 
