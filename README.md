@@ -656,6 +656,8 @@
 
 >[北京航空航天大学推免信息](https://yzb.buaa.edu.cn/info/1036/3391.htm)|[北京航空航天大学各学院信息](https://yzb.buaa.edu.cn/info/1036/3399.htm)
 
+【报名截止：9.22 12：00】[计算机学院](https://scse.buaa.edu.cn/info/1099/12057.htm)
+
 【报名截止：9.18 12：00】[北航可靠性与系统工程学院](https://rse.buaa.edu.cn/info/1307/4581.htm)
 
 ~~【报名截止：9.16】[无人系统研究院-延长时间](https://wrj.buaa.edu.cn/info/1008/2679.htm)~~
