@@ -1054,6 +1054,8 @@
 
 >【报名截止：10.20】[中山大学推免信息](https://graduate.sysu.edu.cn/zsw/article/492)
 
+【报名截止：9.23 15：00】[海洋工程与技术学院关于](https://soet.sysu.edu.cn/zh-hans/article/1253)
+
 【报名截止：9.18】[网络空间安全学院-（直博第二批）](https://scst.sysu.edu.cn/news/news02/1419862.htm)
 
 【报名截止：9.17】[智能工程学院-工程硕博士专项](https://ise.sysu.edu.cn/article/1564)
@@ -1168,6 +1170,8 @@
 
 【报名截止：N/A】[机械学院](https://mse.hust.edu.cn/info/1181/17280.htm)
 
+【报名截止：9.22 20：00】[电信学院](https://ei.hust.edu.cn/info/1150/8375.htm)
+
 【报名截止：9.17 20：00】[电子信息与通信学院](https://gszs.hust.edu.cn/info/1106/4010.htm)
 
 【报名截止：9.17 12：00】[基础医学院](https://gszs.hust.edu.cn/info/1106/4010.htm)
@@ -1212,6 +1216,8 @@
 
 > [华东师范大学招生信息](https://mp.weixin.qq.com/s/3pqoLLU6PzuIedjVncBN0w)|[华东师范大学推免](https://yjszs.ecnu.edu.cn/e2/79/c43463a713337/page.htm)|[华东师范大学-法国学校联合培养研究生项目](https://yjsy.ecnu.edu.cn/e2/c5/c3610a713413/page.htm)|[华东师范大学推免信息](https://yjszs.ecnu.edu.cn/ea/20/c43463a715296/page.htm)
 
+【报名截止：9.23 10：00】[软件工程学院（滴水湖国际软件学院）](https://sei.ecnu.edu.cn/f2/20/c33171a717344/page.htm)
+
 ~~【报名截止：9.14 17：00】[药学院](https://pharm.ecnu.edu.cn/e3/64/c43776a713572/page.htm)~~
 
 ~~【报名截止：9.14 17：00】[上海智能教育研究院](https://mp.weixin.qq.com/s/lYJL9qXYPMge3__C0hG7ow?click_id=13)~~
@@ -1251,6 +1257,8 @@
 ## 华南理工大学
 
 > [华南理工大学招生信息](https://yanzhao.scut.edu.cn/MasterTm/ApplyBmxz.aspx)|[华南理工大学推免信息](https://yz.scut.edu.cn/2025/0902/c30112a600545/page.htm)
+
+【报名截止：9.22 17：00】[机械与汽车工程学院](https://www2.scut.edu.cn/smae/2025/0921/c20808a603173/page.htm)
 
 ~~【报名截止：7.6】[电子与信息学院](https://www2.scut.edu.cn/ee/2025/0620/c35986a594762/page.htm)~~
 
@@ -1543,6 +1551,8 @@
 ~~【报名截止：5.30】[前沿交叉科学学院](https://mp.weixin.qq.com/s/xRw7sCbjFlflqUa7Z4r4Ug)~~
 
 ## 中国科学院
+
+【报名截止：N/A】[自动化研究所-推免(少量名额)](https://ia.cas.cn/yjsjy/zs/sszs/202509/t20250922_7972159.html)
 
 【报名截止：N/A】[计算机网络信息中心-推免(少量名额)](https://cnic.cas.cn/yjsjy/zsxx/202509/t20250916_7969127.html)
 
